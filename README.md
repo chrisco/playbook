@@ -1,5 +1,9 @@
-#Playbook
+# Playbook
 
-This is where we show the world what Hanno is all about.
+Powering [playbook.hanno.co](http://playbook.hanno.co)
 
-Just push to this `gh-pages` branch, and the site will update itself.
+## How to use it
+
+Clone this repository, and then run `jekyll -w serve` inside the directory.
+
+All your changes will be deployed to the live Playbook when you push to the repo.

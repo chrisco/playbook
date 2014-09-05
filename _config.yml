@@ -1,0 +1,11 @@
+name: Hanno's Playbook
+description: How we sail our ship
+meta_description: "How Hanno works - for our clients and our team"
+
+markdown: redcarpet
+pygments: true
+logo: false
+
+# Details for the RSS feed generator
+url:            'blog url'
+author:         'Your Name'
