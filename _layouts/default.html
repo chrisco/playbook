@@ -23,19 +23,17 @@
 <body class="home-template">
 
 	<header class="site-head" {% if page.cover %} style="background-image: url({{ page.cover }})"{% endif %}>
-	    <div class="vertical">
-	        <div class="site-head-content" class="inner">
-	            {% if page.logo %}
-	                <a class="blog-logo" href="/">
-	                    <img src="{{ page.logo }}" alt="Blog Logo" />
-	                </a>
-	            {% endif %}
-	            <h1 class="blog-title">{{ site.name }}</h1>
-	            <h2 class="blog-description"> 
-	                {{ site.description }}. 
-	            </h2>
-	        </div>
-	    </div>
+        <div class="site-head-content" class="inner">
+            {% if page.logo %}
+                <a class="blog-logo" href="/">
+                    <img src="{{ page.logo }}" alt="Blog Logo" />
+                </a>
+            {% endif %}
+            <h1 class="blog-title">{{ site.name }}</h1>
+            <h2 class="blog-description"> 
+                {{ site.description }}. 
+            </h2>
+        </div>
 	</header>
 
     <main class="content" role="main">

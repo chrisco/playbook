@@ -366,13 +366,10 @@ margin on the iframe, cause it breaks stuff. */
 /* Big cover image on the home page */
 .site-head {
     position: relative;
-    display: table;
     width: 100%;
-    height: 60%;
-    margin-bottom: 5rem;
     text-align: center;
     color: #fff;
-    background: #303538 no-repeat center center;
+    background: #e23d28 no-repeat center center;
     background-size: cover;
 }
 
@@ -391,9 +388,7 @@ margin on the iframe, cause it breaks stuff. */
 
 /* The details of your blog. Defined in ghost/settings/ */
 .blog-title {
-    margin: 10px 0 10px 0;
     font-size: 5rem;
-    letter-spacing: -1px;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
 }
@@ -779,6 +774,9 @@ margin on the iframe, cause it breaks stuff. */
     top: -33px;
 }
 
+.site-head {
+    padding: 60px 0;
+}
 
 /* ==========================================================================
    9. Media Queries - Smaller than 900px
@@ -786,27 +784,22 @@ margin on the iframe, cause it breaks stuff. */
 
 @media only screen and (max-width: 900px) {
 
+	.site-head {
+		padding: 15% 0;
+	}
+
+	.blog-title {
+	    font-size: 4rem;
+	    letter-spacing: -1px;
+	}
+
+	.blog-description {
+	    font-size: 1.7rem;
+	    line-height: 1.5em;
+	}
+
     blockquote {
         margin-left: 0;
-    }
-
-    .site-head {
-        -webkit-box-sizing: border-box; 
-        -moz-box-sizing: border-box;
-        box-sizing: border-box; 
-        height: auto;
-        min-height: 240px;
-        padding: 15% 0;
-    }
-
-    .blog-title {
-        font-size: 4rem;
-        letter-spacing: -1px;
-    }
-
-    .blog-description {
-        font-size: 1.7rem;
-        line-height: 1.5em;
     }
 
     .post {
