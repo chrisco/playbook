@@ -6,7 +6,7 @@ cover: false
 
 Hello, and welcome to our Playbook! When we first wrote this content, we shared it internally. Then, we realised more and more, that clients and future collaborators would really be able to benefit from seeing everything that Hanno does, in a single place. And that’s how this Playbook came into being.
 
-There’s a lot of content in here--it’s the ever-evolving instruction manual our team need to run great projects. And it’s the key to our success. By getting it out in the open, we hope it can help others to improve the way they work, and help future clients and teammates to get up and running on our projects as fast as possible!
+There’s a lot of content in here--it’s the ever-evolving instruction manual our team need to run great projects. And it’s the key to our success. By getting it out in the open, we hope it can help others to improve the way they work, and help future clients and teammates tos get up and running on our projects as fast as possible!
 
 Pick a heading to get started:
 
@@ -282,7 +282,6 @@ Our process isn’t necessarily a rigid one, but it typically goes something lik
 1. Complete the Day 1 kickoff: identify and prioritise user stories and agree a workable scope for the project, or the sprint at hand. Make sure the client is clear on the focus here: to work towards a MVP as soon as possible, to allow us to solve the tricky problems sooner. We get more fine-grained, later on.
 2. Discuss and delve deeper into requirements if necessary, where these are complex and require more research.
 3. Sketch out a loose application content architecture and structure before prototyping.
-
 4. We begin prototyping. Typically using [Middleman](http://middlemanapp.com/) along with Riggings to allow rapid development. The first stage here is very blocky outlines of key pages and functionality, thinking at a high level. We scaffold the entire application as quickly as possible, throwing up placeholder pages and content.
 
 Clients provide feedback as we develop, using [BugHerd](http://bugherd.com/) commenting directly on the prototypes. Feedback is pulled into a Kanban taskboard and assigned to our team appropriately. A post-commit hook inside the git repo automatically marks these feature requests as complete once code is pushed to resolve them.
