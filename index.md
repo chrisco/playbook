@@ -4,7 +4,7 @@ title: The Hanno Playbook
 cover: false
 ---
 
-Hello, and welcome to our Playbook! When we first wrote this content, we shared it internally. Then, we realised more and more, that clients and future collaborators would really be able to benefit from seeing everything that Hanno does, in a single place. And that’s how this Playbook came into being.
+Hello, and welcome to our Playbook! We first put all of this content to share with our team. Then we realised that clients and future collaborators would really be able to benefit from seeing everything that Hanno does, in a single place.
 
 There’s a lot of content in here--it’s the ever-evolving instruction manual our team need to run great projects. And it’s the key to our success. By getting it out in the open, we hope it can help others to improve the way they work, and help future clients and teammates tos get up and running on our projects as fast as possible!
 
