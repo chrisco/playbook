@@ -135,7 +135,7 @@ We are unusually hands-on with our clients. The goal on every project is to fit 
 
 The workday for a shipmate at Hanno is **8 working hours** - while in rare situations it may be a little longer, this is the goal we hold ourselves to. If any shipmate is consistently working longer than this, that indicates that there’s a problem to be resolved.
 
-As a team, we are highly productive. We also invest heavily in tools to allow our crew to be more productive. Our philosophy is always that the number of hours worked are no reflection of the quality of the work produced.
+As a team, we are highly productive. We also invest heavily in tools to allow our crew to be more productive. Our philosophy is always that the number of hours worked has no correlation with the quality of work produced.
 
 When working on a project sprint, the amount of time that will be spent on client work will be up to **7 hours** in a day. The remaining hour in the day goes towards off-sprint work such as internal reviews, research, planning and internal work, all of which allows us to deliver better results when we’re on-sprint.
 
