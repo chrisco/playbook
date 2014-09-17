@@ -18,7 +18,7 @@ ___
 
 ## The Enquiry
 
-New projects come about when the client fills out our [Project Planner](https://hanno.typeform.com/to/Pp3YCw) form. We have a [Zapier](https://zapier.com/) hook, which adds the enquiry as a task inside our *Pitches* project inside Asana. Pitches are sorted The whole team is notified.
+New projects come about when the client fills out our [Project Planner](https://hanno.typeform.com/to/Pp3YCw) form. We have a [Zapier](https://zapier.com/) hook, which adds the enquiry as a task inside our *Pitches* project inside Asana. Pitches are sorted according to their current status: iceboxed, paused, qualifying, negotiating. The whole team is added as a follower to the ongoing pitch, so they're kept informed.
 
 In order to progress, enough members of the team must express interest in the project for us to think we could assemble a team to work on it. If there’s no team interest, we’ll apologetically decline the lead. Where appropriate, we’ll offer a suggestion for where they might look next.
 
