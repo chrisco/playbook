@@ -123,7 +123,7 @@ We do not have managers within the team. There are more experienced team members
 
 ## Joining the client’s team
 
-We are a remote team--every part of our team and process goes online. We also have a bunch of really experienced remote workers--to be a high-performing member of this team, you need to be an excellent communicator.
+We are a remote team--to be a high-performing member of this team, you need to be an excellent communicator.
 
 We don’t see a place for the old-school ‘design agency’ in today’s world--times have changed. We know full well that the old, broken, waterfall-based model, just isn’t compatible with the way good companies work, these days.
 
