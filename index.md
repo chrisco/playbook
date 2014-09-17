@@ -209,7 +209,7 @@ We use [Screenhero](https://screenhero.com/) lots for internal pairing sessions,
 
 ## What we look for
 
-We look for talented, *cross-functional *shipmates. Since we do a lot of work with early-stage startups, versatility and a wide range of skills, is important. As is the ability to work really closely with other members of the team, remotely. Location is not a problem.
+We look for talented, *cross-functional* shipmates. Since we do a lot of work with early-stage startups, versatility and a wide range of skills, is important. As is the ability to work really closely with other members of the team, remotely. Location is not a problem.
 
 ## Hiring process
 
