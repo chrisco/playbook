@@ -205,6 +205,28 @@ We have a [heavy emphasis on spontaneous pairing](http://hanno.co/logbook/design
 
 We use [Screenhero](https://screenhero.com/) lots for internal pairing sessions, and also frequently pair on Google Docs.
 
+## Performance and coaching
+
+One of our most important cultural values is that we will [never settle]("http://hanno.co/team"). This means we work really hard to help our shipmates grow.
+
+### Weekly Planning
+
+We track our weekly Plans, Progress and Problems inside [WeekDone](https://weekdone.com/). We'll keep our top 4+ plans for the next 7 days inside here, whether work-based ("ship new marketing copy for Client A"), or personal ("hit the gym 4 times"; "cut down on coffee") so that the whole team can see them.
+
+We all give support and encouragement to our shipmates, and if someone seems to be struggling, anyone can jump in to help out.
+
+### OKRs
+
+Sure, it feels a little bit like you're working for a bigger company, but we're also big on [OKRs](http://en.wikipedia.org/wiki/OKR), which is the tool Google uses to set personal goals and targets. Each quarter, we all write down our personal targets for the next 3 months in areas we want to grow in in our careers, and add them into WeekDone. We'll then aim to hit as many of these as possible in the next few months.
+
+All OKRs are visible to the whole team, and we all try to coach each other and give plenty of motivation to make sure everyone is making the time to focus on growing in areas which are important to them.
+
+
+### 1:1s
+
+Each month, on the first day of the month, every shipmate has a [1:1 call](http://hanno.co/logbook/helping-our-team-to-grow) (or an in-person meeting, if they're in the same city) with [Jon](http://hanno.co/team/jon). In short, it's a chance to have a chat about how the month went, and what else Hanno can be doing to help you grow, and make life better for you.
+
+
 # New Hires
 
 ## What we look for
@@ -334,4 +356,3 @@ After the week’s invoice has been paid in full, all code produced in that week
 ___
 
 Like what you see here? We're always on the lookout for awesome shipmates, and great clients. [Get in touch](http://hanno.co/contact)!
-
