@@ -235,9 +235,11 @@ We look for talented, *cross-functional* shipmates. Since we do a lot of work wi
 
 ## Hiring process
 
-A new shipmate will typically get in touch via email. If we’ve not worked together before, then the first project we will work on will be a sprint together, so that everyone can ‘try before they buy’.
+A new shipmate will typically get in touch via email, to _join@hanno.co_. Emails to this address are piped into our **[HNO] Hiring** project in Asana as a new task, ready for the team to take a look at, and reply to.
 
-If the sprint goes well, we’ll talk about what we’d both need to do, to make things happen again in the future.
+If we’ve not worked together before, then the first project we will work on will be a sprint together, so that everyone can see how the working process feels.
+
+If the sprint goes well, we’ll talk about what we’d both need to do to make things happen again on a more regular basis, whether that's as a full-time hire, or as a recurring collaborator.
 
  
 
