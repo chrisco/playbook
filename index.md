@@ -311,16 +311,16 @@ Our process isn’t necessarily a rigid one, but it typically goes something lik
 3. Sketch out a loose application content architecture and structure before prototyping.
 4. We begin prototyping. Typically using [Middleman](http://middlemanapp.com/) along with Riggings to allow rapid development. The first stage here is very blocky outlines of key pages and functionality, thinking at a high level. We scaffold the entire application as quickly as possible, throwing up placeholder pages and content.
 
-*Clients provide feedback as we develop, using [BugHerd](http://bugherd.com/) commenting directly on the prototypes. Feedback is pulled into a Kanban taskboard and assigned to our team accordingly. A post-commit hook inside the git repo automatically marks these feature requests as complete once code is pushed to resolve them.*
+	Clients provide feedback as we develop, using [BugHerd](http://bugherd.com/) commenting directly on the prototypes. Feedback is pulled into a Kanban taskboard and assigned to our team accordingly. A post-commit hook inside the git repo automatically marks these feature requests as complete once code is pushed to resolve them.
 
-*Since all designers on the project are previewing the site with BugHerd running on their local environment too, this allows us to spot UX issues very quickly. Often, another member of the team will flag up a small issue they spot while working on some unrelated functionality, and it’ll be fixed very quickly.*
+	Since all designers on the project are previewing the site with BugHerd running on their local environment too, this allows us to spot UX issues very quickly. Often, another member of the team will flag up a small issue they spot while working on some unrelated functionality, and it’ll be fixed very quickly.
 
 5. Once we’ve completed a first run-through, we iterate once again, digging deeper this time. Again, all changes are deployed to our staging server immediately and clients will frequently comment.
 6. We'll hold daily calls with the client, where we review progress, talk the product owner through UX decisions, and discuss the business implications of key decisions.
 
-*At this point, we’ve still not added any real visual design--we’re still working with unstyled [Foundation](http://foundation.zurb.com/) or [Bootstrap](http://getbootstrap.com/) HTML/CSS/JS. We like to do this initially until we’ve covered the biggest design decisions, rather than prematurely getting too deep into UI design.*
+	At this point, we’ve still not added any real visual design--we’re still working with unstyled [Foundation](http://foundation.zurb.com/) or [Bootstrap](http://getbootstrap.com/) HTML/CSS/JS. We like to do this initially until we’ve covered the biggest design decisions, rather than prematurely getting too deep into UI design.
 
-*It’s important to emphasise this to the client--they won’t see any of their own branding appearing until we’re well into the process. Not seeing distracting visuals too soon encourages them to focus on UX and functionality, not stylistic decisions.*
+	It’s important to emphasise this to the client--they won’t see any of their own branding appearing until we’re well into the process. Not seeing distracting visuals too soon encourages them to focus on UX and functionality, not stylistic decisions.
 
 7. We’ll then aim to build out a [pattern library](http://demo.pattern-lab.info/?p=all) for the application. This is again dependent on the time we have available.
 8. These general styles then get layered onto the app, fleshing out the design further and raising further questions to discuss with the client.
