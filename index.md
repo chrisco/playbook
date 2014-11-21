@@ -6,9 +6,11 @@ cover: false
 
 Hello, and welcome to our Playbook! We first put all of this content together to share with our team. Then we realised that clients and future collaborators would really be able to benefit from seeing everything that Hanno does, in a single place.
 
+*You can read more about why we've put it online, in our blogpost: [Announcing our Playbook: why we’re defaulting to transparency](http://hanno.co/logbook/defaulting-to-transparency).*
+
 There’s a lot of content in here--it’s the ever-evolving instruction manual our team uses to run great projects. And it’s the key to our success. By getting it out in the open, we hope it can help others to improve the way they work, and help future clients and teammates to get up and running on our projects as fast as possible!
 
-Pick a heading to get started:
+Pick a heading, and let's get started:
 
 <nav id="toc"></nav>
 
@@ -24,7 +26,7 @@ In order to progress, enough members of the team must express interest in the pr
 
 ## The Hangout
 
-If the initial team reaction is favourable, we’ll line up a video call with the lead. For us, it’s important that this is a video call so that we can get to know each other better. This isn't a kickoff call, and it shouldn’t be with the lead’s entire team.
+If the initial team reaction is favourable, we’ll line up a video call with the lead. For us, it’s important that this is a *video* call and not just an audio one, so that we can get to know each other better. This isn't a kickoff call, and it shouldn’t be with the lead’s entire team.
 
 Here, we want to understand the client better, and hear their ambitions for their project. Just as they need to make sure we can deliver, we need to do the same on our side.
 
@@ -32,14 +34,14 @@ Here, we want to understand the client better, and hear their ambitions for thei
 
 Some key questions that we'll discuss:
 
-1. **Find out why.** Why did the client contact Hanno - why do they feel that Hanno would be a good match?
+1. **Find out why.** Why did the client contact Hanno--why do they feel that Hanno would be a good match?
 2. **Discover their vision.** Gauge technical expertise and level of expectations. Do they sound smart, focused and knowledgeable about their goals and business? A lack of technical expertise is a solvable problem, but needs to later be factored into budgets, for increased project time and more thorough training.
 3. **Understand a little more about their requirements.** This is not a deep scoping session, yet, but we'll likely need to fill in a few gaps in our knowledge and understand a little more about the work that's required. This will help us to understand the team that’ll be needed for the project.
-4. **Discover their level of commitment.** Who will we be working with - who will be the product owner at the client's end? This [shouldn’t be the CEO](http://hanno.co/logbook/ceo-product-owner).
-5. **Sound out their budget.** Be accepting of a degree of inexperience - not all clients know exactly how much this will cost. But beware, if their budget expectations are vastly out of sync with what’s required for the project to succeed. Squeezed budgets don’t allow the time and thought to deliver great results, and we should make sure we don't put ourselves in a position where the client will be unhappy.
-6. **Discuss a very loose timeline.** Ahead of the call, the team will check out our upcoming project schedule on [Forecast](https://forecastapp.com) to see what our schedule looks like. We won't commit to a deadline or schedule on the call, because this will need to be discussed with the rest of the team beforehand.
+4. **Discover their level of commitment.** Who will we be working with--who will be the *product owner* at the client's end? This [shouldn’t be the CEO](http://hanno.co/logbook/ceo-product-owner).
+5. **Sound out their budget.** Be accepting of a degree of inexperience - not all clients know exactly how much this will cost. But be very cautious if their budget expectations are vastly out of sync with what’s required for the project to succeed. Squeezed budgets don’t allow the time and thought to deliver great results, and we should make sure we don't put ourselves in a position where the client might be left unhappy at the end of the project.
+6. **Discuss a very loose timeline.** Ahead of the call, the team will check out our upcoming project schedule on [Forecast](https://forecastapp.com) to see what our availability is. But we won't commit to a project deadline or set schedule on the call, because this will need to be discussed with the rest of the team beforehand.
 
-Team members should be careful not to commit to specific dates on early client calls, so that the client isn't disappointed when these dates are investigated more deeply and turn out to not be achievable. Be aware that getting through the early stages of contracts and invoice payments, can be more time-consuming than you might expect.
+Team members should be careful not to commit to specific dates in early client calls, so that the client isn't disappointed when these dates are investigated more deeply and turn out to not be achievable. Be aware that getting through the early stages of contract signing and invoice payment can be more time-consuming than you might expect.
 
 ### After the call
 
@@ -59,26 +61,26 @@ We should make the client aware that we adopt the same approach as [Paul Graham]
 
 *"A lot of would-be startup founders think the key to the whole process is the initial idea, and from that point all you have to do is execute. Venture capitalists know better. If you go to VC firms with a brilliant idea that you’ll tell them about if they sign a nondisclosure agreement, most will tell you to get lost. That shows how much a mere idea is worth. The market price is less than the inconvenience of signing an NDA."*
 
-Be aware that this may require you to educate the client, and help them to understand 
+Be aware that this may require you to educate the client and help them to understand why we take this position.
 
-We respect the confidential information of clients and don't treat it lightly when they submit an enquiry to us. When we start a project, a full NDA and confidentiality clauses will be included in our contract. But we won't sign a full legal NDA simply to hear your project brief.
+We respect the confidential information of clients and don't treat it lightly when they submit an enquiry to us. When we start a project, a full NDA and relevant confidentiality clauses will be included in our contract. But we won't sign a full legal NDA simply to hear a project brief.
 
-We ask that at the beginning of the process, clients find a way to communicate their project brief with us, without requesting that we sign an NDA.
+We ask that at the beginning of the process, clients find a way to communicate their project brief with us without requesting that we sign an NDA.
 
 ### Will you work with my competitors?
 
 We work in the services industry, and with a lot of startups. To agree to an exclusivity clause would require us to charge an extremely high fee.
 
-We do, however, respect confidential information at all times and won't disclose any of that to anyone else we work with. Where possible, we will try to avoid placing the same shipmates on projects with similar client types.
+We do, however, respect confidential information at all times and won't disclose any of that to anyone else we work with. Where possible, we will try to avoid placing the same shipmates on projects with similar clients.
 
 ## Scope and billing
 
 We price and bill projects on a **flat weekly rate**, according to the number of team members who will be required.
 
-If we’ve been able to gain consensus for the project, and assemble a team, we’ll send over an *Engagement Summary*, which sets out:
+If we’ve been able to gain consensus for the project and assemble a team, we’ll send over an *Engagement Summary*, which sets out:
 
 * The number of team members
-* The number of weeks being booked for the project, and the start date for these
+* The number of weeks being booked for the project, and the start date for this first sprint
 * The broad project goal
 * The price per team member, per week
 
@@ -88,26 +90,26 @@ International clients can pay directly via [Stripe](https://stripe.com/gb) and U
 
 ## Business details
 
-We’ll also send the client a link to our business details form. This is a form attached to a Google spreadsheet. Once they complete it, it will automatically create profiles for them inside [FreeAgent](http://www.freeagent.com/) (our billing platform) and our other services.
+We’ll also send the client a link to our business details form. This is a form attached to a Google spreadsheet. Once they complete it, it will automatically create profiles for them inside [FreeAgent](http://www.freeagent.com/) (our billing platform) and inside our other apps.
 
 ## The Consulting Contract
 
 We have a standard *Consulting Contract*, which we send out to the client from our [HelloSign](https://www.hellosign.com/) account for e-signing. Contracts are stored in Google Drive. The contract will be signed by both the client, and our company director, Jon.
 
-This Contract is purposefully broad, and suited to the type of project we work on. It won’t include any detail about the client’s specific project. It’s also appropriate to any *Engagement* we work on together. This means that once it’s signed, we can schedule sprints without needing to sign new contracts each time.
+This Contract is purposefully broad, and suited to the type of project we work on. It won’t include any detail about the client’s specific project. It’s also applicable to any *Engagement* we work on together. This means that once it’s signed, we can schedule sprints without needing to sign new contracts each time.
 
 The contract covers basics such as:
 
-* Confidentiality and nondisclosure
+* Confidentiality and non-disclosure
 * Legal liabilities
 * Billing and payment terms
 * Engagement terminations - the Engagement can be ended by either us, or the client, giving notice before the end of a sprint week. The Engagement will then end at the end of the week.
 
-Our contracts are under the laws of England and Wales, and any legal action has to be taken in this jurisdiction. This is an important 'dealbreaker' term for us, which we won't change, since it is related to our ability to adequately insure international projects. We can’t go any further in the discussion if this is a problem for the client.
+Our contracts are under the laws of England and Wales, and any legal action has to be taken in this jurisdiction. This is an important 'dealbreaker' term for us, which we won't change, since it is required in order for the project to fall under our Professional Indemnity insurance. If this is a dealbreaker for the client, too, we'll have to decline the project.
 
 ## Scheduling Sprints
 
-All our projects are billed and scheduled on a weekly basis. Sprints run on weekdays from Wednesday-Tuesday. We choose these dates because we want to avoid shipping on Fridays, and kicking off sprints on Mondays, both of which are very undesirable.
+All our projects are billed and scheduled in weekly blocks. Sprints run on weekdays from Wednesday-Tuesday. We choose these dates because we want to avoid shipping on Fridays, and kicking off sprints on Mondays, both of which are very undesirable.
 
 Before booking a project sprint into our team schedule, we will send an upfront invoice for the first week of the sprint. This is the only invoice we send which is not on net-14 payment terms--rather, it is due ASAP.
 
@@ -117,15 +119,15 @@ During discussions with the client up to this point, we’ll give them approxima
 
 ## Flat and Open
 
-Our company is a transparent one--every core team-member has full visibility of company finances and cashflow, via periodic team-wide updates, and weekly billing updates. Salaries and pay are also open to the whole team.
+Our company is a transparent one--every core team-member has full visibility of company finances and cashflow, via periodic team-wide updates, and weekly billing updates. Salaries and pay are also visible to the whole team and based on a transparent salary forumla we've created.
 
-We do not have managers within the team. There are more experienced team members, and their pay reflects their position, but we do not have project managers. The team on each project is responsible for running each project, using the framework we’ve set out in this Playbook.
+We do not have managers within the team, but we do have *Coaches* who are responsible for supporting the rest of their teams and helping them to do great work. More experienced team members are paid in a way that reflects their experience, but we do not have project managers. The team on each project is responsible for running each project, using the framework we’ve set out in this Playbook.
 
 ## Joining the client’s team
 
 We are a remote team--to be a high-performing member of this team, you need to be an excellent communicator.
 
-We don’t see a place for the old-school ‘design agency’ in today’s world--times have changed. We know full well that the old, broken, waterfall-based model, just isn’t compatible with the way good companies work, these days.
+We don’t see a place for the old-school ‘design agency’ in today’s world--times have changed. We know full well that the old, broken, waterfall-based model just isn’t compatible with the way good companies work, these days.
 
 We are unusually hands-on with our clients. The goal on every project is to fit together seamlessly with the client’s team, to collaborate, teach, and work towards shared goals. That includes our project team’s IM conversations. Memes and all.
 
@@ -133,11 +135,11 @@ We are unusually hands-on with our clients. The goal on every project is to fit 
 
 ## The workday
 
-The workday for a shipmate at Hanno is **8 working hours** - while in rare situations it may be a little longer, this is the goal we hold ourselves to. If any shipmate is consistently working longer than this, that indicates that there’s a problem to be resolved.
+The workday for a shipmate at Hanno is **8 working hours**--while in rare situations it may be a little longer, this is the goal we hold ourselves to. If any shipmate is consistently working longer than this, that indicates that there’s a problem to be resolved.
 
-As a team, we are highly productive. We also invest heavily in tools to allow our crew to be more productive. Our philosophy is always that the number of hours worked has no correlation with the quality of work produced.
+As a team, we are highly productive and [invest heavily in tools](http://hanno.co/logbook/investing-in-tools-no-brainer) to allow us to be this way. Our philosophy is always that the number of hours worked has no correlation with the quality of work produced.
 
-When working on a project sprint, the amount of time that will be spent on client work will be up to **7 hours** in a day. The remaining hour in the day goes towards off-sprint work such as internal reviews, research, planning and internal work, all of which allows us to deliver better results when we’re on-sprint.
+When working on a project sprint, the amount of time that will be spent on client work will be up to **7 hours** in a day. The remaining hour in the day goes towards off-sprint work such as internal reviews, research, planning and internal work, all of which allows us to deliver better results when we’re on a sprint.
 
 ## Holidays
 
@@ -145,21 +147,21 @@ We work Monday-Friday. Since the team is entirely remote, conventional public ho
 
 For full-time team members, we instead give them **28 days** of holiday, plus the number of days [allocated for UK bank holidays](https://www.gov.uk/bank-holidays) in that year. If there are 8 bank holidays in the calendar year, this means that each shipmate has **28+8 days** of holiday--a total of **36 days**.
 
-Shipmates should announce holiday plans on Basecamp, or Asana to check for scheduling issues. If the rest of the team confirms, they should then add the holiday dates into both Forecast, and also our shared team calendar in our Google Apps domain.
+Shipmates should announce holiday plans on Basecamp or Asana to check for scheduling issues. If the rest of the team confirms, they should then add the holiday dates into both Forecast, and also our shared team calendar in Google Apps.
 
-It’s rarely an issue to get project approval if you’re booking more than 2 months in advance. For shorter requests, it will depend upon sprint scheduling.
+It’s rarely an issue to get holiday approval if you’re booking more than 2 months in advance. For shorter requests, it will depend upon sprint scheduling.
 
 To minimise holiday disruptions, we ask that shipmates try and plan holidays to avoid departing mid sprint. Since sprints run Wednesday to Tuesday, this means that departing on Wednesdays, and returning on Tuesdays, is most efficient.
 
 ## Remote Work
 
-Working remotely is one of the best-known elements of the Hanno culture. It has been the way we’ve worked since the very beginning, and we stick to it. For us, it’s a way to allow our team the flexibility to build great lives around their work, which in turn, helps them to enjoy their jobs more, and be more productive.
+Working remotely is one of the best-known elements of Hanno culture. It has been the way we’ve worked since the very beginning, and we intend to stick to it. For us, it’s a way to allow our team the flexibility to build great lives around their work, which in turn, helps them to enjoy their jobs more and to be more productive.
 
-We are very flexible about where team members choose to live and work. The biggest requirement is that regardless of where you choose to be based, you must make sure you have an internet connection that’s good enough to handle video calls with the rest of the team, and clients.
+We are very flexible about where team members choose to live and work. The biggest requirement is that regardless of where you choose to be based, you must make sure you have an internet connection that’s good enough to handle video calls with clients and the rest of the team.
 
-Team members get login details for our [OpenVPN](https://openvpn.net/) servers--we have several of these, spread across a few different global locations, so that the whole team has a fast and reliable connection. VPN usage is mandatory whenever someone is working on public wifi.
+Team members get login details for our [OpenVPN](https://openvpn.net/) servers--we have several of these, spread across a few different global locations in Ireland, Singapore and the USA, so that the whole team has a fast and reliable connection. VPN usage is compulsory whenever you're working on public wifi.
 
-Several of our team members are nomadic, or at least, spend several months of the year travelling--this isn’t a problem for us--we simply make sure that they do their relocating while off-sprint, so that it doesn’t interfere with client work at all.
+Several of our team members are nomadic, or at least, spend several months of the year travelling. This isn’t a problem for us--we simply make sure that they do their relocating while off-sprint so that it doesn’t interfere with client work at all.
 
 ## Team Trips
 
@@ -167,7 +169,7 @@ Periodically, our whole core team gets together for team trips. The destination 
 
 Our current team trip format is for the trips to be just under 2 weeks in total. This includes 2 weekends, which sandwich a 5 day week, where we work on internal projects and hack weeks.
 
-During the team trip, we’re unavailable for client work, and we schedule sprints around this to give us the time and space to make each trip a big success.
+During the team trip, we’re unavailable for client work, and we schedule client sprints accordingly, to give us the time and space to make each trip a big success.
 
 ## Collaborators
 
@@ -175,9 +177,9 @@ Where we feel it would help us to do a better job on a project, we may bring in 
 
 Confidentiality of project and client information is important, so each of these contractors will sign a standard *Independent Contractor Agreement*. This will be sent out from HelloSign, and sets out our standard confidentiality terms, along with other conditions for working on the project.
 
-We’ll also send a single booking document, which will set out the dates we’re booking to work together,
+We’ll also send a single booking document, which will set out the dates we’re booking to work together during.
 
-Collaborators will join our team Sqwiggle room, and be added to the project management tools (such as Asana) that they need in order to carry out their role.
+Collaborators will join our team Sqwiggle room, and be added to the project management tools (such as Asana) that they need in order to carry out their roles.
 
 ## Internal communication
 
@@ -185,15 +187,15 @@ We use Slack for internal chatter, including marketing discussion, and general c
 
 We are [huge fans of Asana](http://hanno.co/logbook/asana-vs-jira-lean-tools-project-management) and use it to manage the majority of on-project internal discussions, and anything that requires a task to be completed. We also keep open an internal Basecamp project called *Hanno Team News*, into which the team posts occasional discussions, and also financial updates and planning.
 
-We have an internal rule: default to Asana. It’s very rare for anyone on the team to email each other.
+We have an internal rule: **default to Asana**. It’s very rare for anyone on the team to email each other.
 
 When you’re online, you should be signed into our [Sqwiggle](http://sqwiggle.com/) account and leave your webcam on. At first, it’ll feel intimidating, but really, it’s no different from working in an office or coworking space. Frankly, nobody cares what you look like, but they do care about feeling a connection to other people in the team, even if we’re all on different timezones and in different locations.
 
 ![image alt text](/assets/images/sqwiggle.png)
 
-As for the tools we use for each project--that really depends on the project. We’ll often use Asana to run projects, but at times, we’ll switch from anything from GitHub issues, to apps such as JIRA, if the client has a defined workflow and we need to integrate into it.
+As for the tools we use for each project--that really depends on the project. We’ll often use Asana to run projects, but if the client has a defined workflow and we need to integrate into it, we’ll switch from anything from GitHub issues, to apps such as JIRA.
 
-We are huge fans of Google docs. If written communication is not in Asana, it will be in a Google Doc. If we find ourselves writing a long message in Basecamp, we stop, turn it into a Google Doc, and send that link via a Basecamp message, or an Asana task.
+We are huge fans of Google Docs. If written communication is not in Asana, it will be in a Google Doc. If we find ourselves writing a long message in Basecamp, we stop, turn it into a Google Doc, and send that link via a Basecamp message or an Asana task.
 
 Internal calls usually happen over Skype--we feel the audio quality is better than Google Hangouts. They are always video calls.
 
@@ -217,14 +219,16 @@ We all give support and encouragement to our shipmates, and if someone seems to 
 
 ### OKRs
 
-Sure, it feels a little bit like you're working for a bigger company, but we're also big on [OKRs](http://en.wikipedia.org/wiki/OKR), which is the tool Google uses to set personal goals and targets. Each quarter, we all write down our personal targets for the next 3 months in areas we want to grow in in our careers, and add them into WeekDone. We'll then aim to hit as many of these as possible in the next few months.
+Sure, it feels a little bit like you're working for a bigger company, but we're also big on [OKRs](http://en.wikipedia.org/wiki/OKR), which is the tool Google uses to set personal goals and targets. Each quarter, we all write down our personal targets for the next 3 months in areas we want to grow in in our careers, and add them into [7Geese](https://www.7geese.com/). We'll then aim to hit as many of these as possible in the next few months.
 
-All OKRs are visible to the whole team, and we all try to coach each other and give plenty of motivation to make sure everyone is making the time to focus on growing in areas which are important to them.
+All OKRs are visible to the whole team, and we all try to coach each other and provide plenty of motivation to make sure everyone is making the time to focus on growing in areas which are important to them.
 
 
 ### 1:1s
 
-Each month, on the first day of the month, every shipmate has a [1:1 call](http://hanno.co/logbook/helping-our-team-to-grow) (or an in-person meeting, if they're in the same city) with [Jon](http://hanno.co/team/jon). In short, it's a chance to have a chat about how the month went, and what else Hanno can be doing to help you grow, and make life better for you.
+Each month, during the first week of the month, every shipmate has a [1:1 call](http://hanno.co/logbook/helping-our-team-to-grow) (or an in-person chat, if they're in the same city) with [Jon](http://hanno.co/team/jon). In short, it's a chance to have a chat about how the month went, and what else Hanno can be doing to help you grow, and make life better for you.
+
+Ahead of that 1:1, Jon will send brief feedback on the month's progress, via 7Geese.
 
 
 # New Hires
@@ -235,37 +239,36 @@ We look for talented, *cross-functional* shipmates. Since we do a lot of work wi
 
 ## Hiring process
 
-A new shipmate will typically get in touch via email, to _join@hanno.co_. Emails to this address are piped into our **[HNO] Hiring** project in Asana as a new task, ready for the team to take a look at, and reply to.
+A new shipmate will typically get in touch via email, to _join@hanno.co_. Emails to this address are piped into our **[HNO] Hiring** project in Asana as a new task, ready for the team to take a look at and reply to.
 
 If we’ve not worked together before, then the first project we will work on will be a sprint together, so that everyone can see how the working process feels.
 
-If the sprint goes well, we’ll talk about what we’d both need to do to make things happen again on a more regular basis, whether that's as a full-time hire, or as a recurring collaborator.
+If the sprint goes well, we’ll talk about what we’d both need to do to make things happen again on a more regular basis, whether that's as a full-time core team member, or as a recurring collaborator.
 
  
-
 # Sprints
 
 ## Sprint Teams
 
-We hold fast to the philosophy that great results on complex challenges, come from building a great team around the problem. We also don’t believe that any of our shipmates should be working solo.
+We hold fast to the philosophy that great results on complex challenges come from building a great team around the problem. We don’t believe that any of our shipmates should be working solo.
 
 So we build small, cross-functional teams for each project. This means that depending on the project needs, we’ll typically have 3 shipmates working on each client sprint.
 
-We also don’t feel that great work comes when our attention is split between multiple projects. A consistent project team, which doesn’t change on a regular basis, is the best way to build great relationships with our clients, and make sure that team is productive, and understands the project deeply. So team members will stay on the same project for the whole sprint, working full work-weeks on that project, rather than working multiple projects at once.
+We also don’t feel that great work comes when our attention is split between multiple projects. A consistent project team, which doesn’t change on a regular basis, is the best way to build great relationships with our clients and to make sure that team is productive and understands the project deeply. So team members will stay on the same project for the whole sprint, working full workweeks on that project, rather than working on multiple projects at once.
 
 ## Sprint schedules
 
-Team schedules are shown in Forecast, and teams are responsible for managing their own schedules, and also requesting resources from other team members, as needed. Where possible, we will aim to avoid having sprints run back-to-back. Downtime in between sprints is for internal work, including marketing, blogging, and building team tools.
+Team schedules are shown in Forecast, and teams are responsible for managing their own schedules and also requesting resources from other team members, as needed. Where possible, we will aim to avoid having sprints run back-to-back. Downtime in between sprints is for internal work, including marketing, blogging, and building team tools.
 
 ![image alt text](/assets/images/forecast.png)
 
-Where we have an ongoing project that is expected to pause after a sprint completes, and then resume a few weeks or months later, that client should be given priority over any new project leads or commitments, and ideally, first refusal before a project is booked in. However, all available project timeslots are handled on a first-come, first-served basis. The client must commit to subsequent sprints, and organise a booking and week 1 deposit, before that timeslot will be reserved for them.
+Where we have an ongoing project that is expected to pause after a sprint completes, and then resume a few weeks or months later, that client should be given priority over any new project leads or commitments. Ideally, we'll look to give them first refusal on the timeslot before another project is booked into it. However, all available project timeslots are handled on a first-come, first-served basis. The client must commit to subsequent sprints, and organise a booking and week 1 deposit, before that timeslot will be reserved for them.
 
 ## Pre-Kickoff
 
-Our working process is extremely intense. To make sure we can start off at full-speed, and deliver value to the client, we’ll send over some research and prep tasks to the client, about a week ahead of kickoff. These will cover topics such as:
+Our working process is extremely intense. To make sure we can start off at full-speed and deliver value to the client, we’ll send over some research and prep tasks to the client about a week ahead of kickoff. These will cover topics such as:
 
-* The product business model (or intended model)
+* The product's business model (or intended model)
 * User feedback on the current product, if it exists
 * The company and product history so far
 * Competitors
@@ -289,11 +292,11 @@ We often use Trello for collaborative storyboarding - we like the simple UI and 
 
 There’s ongoing communication between the team and the client every day--it’s a crucial part of our process.
 
-Every morning, the team will paste a blank Google doc template called the *PPP* into the Slack room. This has sections for *Plans, Progress and Problems*. Each day on the project has its own PPP, and over the course of the day, that document will be gradually added to, by each person involved.
+Every morning, the team will paste a blank Google Doc template called the *PPP* into the Slack room. This has sections for *Plans, Progress and Problems*. Each day on the project has its own PPP, and over the course of the day, that document will be gradually added to, by each person involved.
 
 At the end of the day, the PPP document will be edited to be publicly visible to anyone with the link, and then dropped into Basecamp. This way, even someone on the client’s team who isn’t directly involved in the day-to-day decisions, can be kept updated and informed.
 
-We also have regular internal standups within the team - clients are welcome to join. There should be at least 1 call every day between 1 or more member of our team, and the product owner, to make sure the project runs smoothly.
+We also have regular internal standups within the team--clients are welcome to join. There should be at least 1 call every day between 1 or more member of our team, and the product owner, to make sure the project runs smoothly.
 
 Most of the day-to-day project communication will happen on the project’s Slack room. Project team members will *CHICO* (check-in and check-out) to let everyone on the project know their daily timings, including when they’ll be back online the next day.
 
@@ -308,20 +311,20 @@ Our process isn’t necessarily a rigid one, but it typically goes something lik
 3. Sketch out a loose application content architecture and structure before prototyping.
 4. We begin prototyping. Typically using [Middleman](http://middlemanapp.com/) along with Riggings to allow rapid development. The first stage here is very blocky outlines of key pages and functionality, thinking at a high level. We scaffold the entire application as quickly as possible, throwing up placeholder pages and content.
 
-Clients provide feedback as we develop, using [BugHerd](http://bugherd.com/) commenting directly on the prototypes. Feedback is pulled into a Kanban taskboard and assigned to our team appropriately. A post-commit hook inside the git repo automatically marks these feature requests as complete once code is pushed to resolve them.
+*Clients provide feedback as we develop, using [BugHerd](http://bugherd.com/) commenting directly on the prototypes. Feedback is pulled into a Kanban taskboard and assigned to our team accordingly. A post-commit hook inside the git repo automatically marks these feature requests as complete once code is pushed to resolve them.*
 
-Since all designers on the project are previewing the site with BugHerd running on their local environment too, this allows us to spot UX issues very quickly. Often, another member of the team will flag up a small issue they spot while working on some unrelated functionality, and it’ll be fixed very quickly.
+*Since all designers on the project are previewing the site with BugHerd running on their local environment too, this allows us to spot UX issues very quickly. Often, another member of the team will flag up a small issue they spot while working on some unrelated functionality, and it’ll be fixed very quickly.*
 
-1. Once we’ve completed a first run-through, we iterate once again, digging deeper this time. Again, all changes are deployed to our staging server immediately and clients will frequently comment.
-2. Daily calls with the client, where we review progress, talk the product owner through UX decisions, and discuss business implications of decisions.
+5. Once we’ve completed a first run-through, we iterate once again, digging deeper this time. Again, all changes are deployed to our staging server immediately and clients will frequently comment.
+6. We'll hold daily calls with the client, where we review progress, talk the product owner through UX decisions, and discuss the business implications of key decisions.
 
-At this point, we’ve still not added any real visual design - we’re still working with unstyled [Foundation](http://foundation.zurb.com/) or [Bootstrap](http://getbootstrap.com/) HTML/CSS/JS. We like to do this initially until we’ve covered the big decisions, rather than prematurely getting too deep into UI design.
+*At this point, we’ve still not added any real visual design--we’re still working with unstyled [Foundation](http://foundation.zurb.com/) or [Bootstrap](http://getbootstrap.com/) HTML/CSS/JS. We like to do this initially until we’ve covered the biggest design decisions, rather than prematurely getting too deep into UI design.*
 
-It’s important to emphasise this to the client--they won’t see any of their own branding appearing until we’re well into the process. Not seeing distracting visuals too soon encourages them to focus on UX and functionality, not stylistic decisions.
+*It’s important to emphasise this to the client--they won’t see any of their own branding appearing until we’re well into the process. Not seeing distracting visuals too soon encourages them to focus on UX and functionality, not stylistic decisions.*
 
-1. We’ll then aim to build out a [pattern library](http://demo.pattern-lab.info/?p=all) for the application. This is again dependent on the time we have available.
-2. These general styles then get layered onto the app, fleshing out the design further and raising further questions to discuss with the client.
-3. Repeat and iterate as far as is possible with the sprint time available!
+7. We’ll then aim to build out a [pattern library](http://demo.pattern-lab.info/?p=all) for the application. This is again dependent on the time we have available.
+8. These general styles then get layered onto the app, fleshing out the design further and raising further questions to discuss with the client.
+9. We'll repeat and iterate as far as is possible with the sprint time available!
 
 ### Some technical notes
 
@@ -337,7 +340,7 @@ We use either Zurb Foundation or Twitter Bootstrap as our framework of choice. F
 
 ### The deliverables
 
-At the end of this design and prototyping component, we’ll end up with a git repo containing all the ‘source’ files and templates for the app. This will include:
+At the end of this design and prototyping stage, we’ll end up with a git repo containing all the ‘source’ files and templates for the app. This will include:
 
 * HTML(5)
 * JS
@@ -345,11 +348,11 @@ At the end of this design and prototyping component, we’ll end up with a git r
 * The Foundation or Bootstrap framework, on top of which custom styles will have been overlaid
 * A Middleman app, which has the YAML data sources and similar content for the application, to keep things clean and DRY.
 
-Depending on the project, we may also integrate with an existing application. We’re happy to work on the frontend--it’s common for us to work with clients on Angular projects, where we’ll be building out the frontend of the application, and they’ll work on building a backend and API to allow us to integrate with this.
+Depending on the project, we may also integrate with an existing application. We’re happy to work on the frontend--it’s common for us to work with clients on [AngularJS](https://angularjs.org/) projects, where we’ll be building out the frontend of the application, and they’ll work on building a backend and API to allow us to integrate with this.
 
 ## Ownership
 
-Code ownership is a big deal for us. When a sprint ends, it’s crucial that everything we’ve done is owned by the client, and can be used by them going forwards. This means that whenever we use a third-party service (like GitHub, [Heroku](http://heroku.com/), etc), we set up the project inside a separate account, in their name.
+Code ownership is a big deal for us. When a sprint ends, it’s crucial that everything we’ve done is owned by the client, and can be used by them going forwards. This means that whenever we use a third-party service (like GitHub, [Heroku](http://heroku.com/), etc), we set up the project in an account under the client's name, **not** on one of our existing internal accounts.
 
 When working on GitHub, we strongly push for the repository to be hosted on the client’s own GitHub account. not our own. By the time the sprint ends, the idea is to seamlessly transition the project across to the client’s own team to manage and maintain on a daily basis.
 
