@@ -209,7 +209,7 @@ We use [Screenhero](https://screenhero.com/) lots for internal pairing sessions,
 
 ## Performance and coaching
 
-One of our most important cultural values is that we will [never settle]("http://hanno.co/team"). This means we work really hard to help our shipmates grow.
+One of our most important cultural values is that we will [never settle](http://hanno.co/team). This means we work really hard to help our shipmates grow.
 
 ### Weekly Planning
 
