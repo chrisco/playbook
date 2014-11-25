@@ -1,6 +1,10 @@
 <!DOCTYPE html>
-<html>
-<head>   
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
@@ -11,45 +15,51 @@
     <meta name="MobileOptimized" content="320" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="stylesheet" type="text/css" href="/assets/css/normalize.css" />
-    <link rel="stylesheet" type="text/css" href="/assets/css/screen.css" />
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic|Open+Sans:700,400" />
-    <!-- This is for syntax highlight -->
-    <link rel="stylesheet" type="text/css" href="/assets/css/syntax.css">
-    <!-- Customisation  -->
-    <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
+    <link rel="stylesheet" href="http://hanno.co/assets/css-dist/style.66.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
 
 </head>
-<body class="home-template">
+<body>
 
-	<header class="site-head" {% if page.cover %} style="background-image: url({{ page.cover }})"{% endif %}>
-        <div class="site-head-content" class="inner">
-            {% if page.logo %}
-                <a class="blog-logo" href="/">
-                    <img src="{{ page.logo }}" alt="Blog Logo" />
-                </a>
-            {% endif %}
-            <h1 class="blog-title">{{ site.name }}</h1>
-            <h2 class="blog-description"> 
-                {{ site.description }}. 
-            </h2>
-        </div>
-	</header>
+<div id="st-container" class="st-container st-hideatstart">
 
-    <main class="content" role="main">
-	    <article class="post">
-	        <section class="post-content">
-	            {{content}}
-	        </section>
-	    </article>
-	</main>
+	<div class="main-content">
 
-    <footer class="site-footer">
-        <div class="inner">
-             <section class="copyright">All content copyright <a href="http://hanno.co">Hanno</a></section>
-             <section class="poweredby">Made with Jekyll</section>
-        </div>
-    </footer>
+		<header class="focus-title focus-title--subpage focus-title--contact pale-blue">
+			<div class="row">
+				<div class="columns text-center">
+					<h1>Hanno's Playbook</h1>
+					<h2 class="subheader subpage-contact__links">This is the way we sail our ship.</h2>
+				</div>
+			</div>
+		</header>
+
+		<article class="">
+			<div class="row">
+				<div class="medium-9 columns medium-offset-1 large-offset-0 large-centered post-content">
+					{{content}}
+				</div>
+			</div>
+		</article>
+
+		<footer class="home-block home__footer js__home-outer" id="more">
+			<div class="js__home-inner">
+				<div class="row">
+					<div class="columns">
+						<h1>Like the cut of our jib?</h1>
+						<h3 class="subheader">We're always on the lookout for great people to work with--both shipmates, and clients. Drop us a message, and let's talk about what we can build together.</h3>
+
+						<ul class="text-center">
+							<li><a class="button outline red" href="http://hanno.co/contact">Get in touch</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+	</div>
+
+
 
     <script type="text/javascript" src="/assets/js/jquery-2.1.1.min.js"></script>
     <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
@@ -63,7 +73,7 @@
 		    'container': '.post-content', //element to find all selectors in
 		    'smoothScrolling': true, //enable or disable smooth scrolling on click
 		    'prefix': 'toc', //prefix for anchor tags and class names
-		    'onHighlight': function(el) {}, //called when a new section is highlighted 
+		    'onHighlight': function(el) {}, //called when a new section is highlighted
 		    'highlightOnScroll': true, //add class to heading that is currently in focus
 		    'highlightOffset': 100, //offset to trigger the next headline
 		    'anchorName': function(i, heading, prefix) { //custom function for anchor name
@@ -79,13 +89,13 @@
 	});
 	</script>
 
-    	<script>
+    <script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 		ga('create', 'UA-304290-12', 'auto');
 		ga('send', 'pageview');
-	</script> 
+	</script>
 </body>
 </html>

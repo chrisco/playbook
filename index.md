@@ -4,7 +4,7 @@ title: The Hanno Playbook
 cover: false
 ---
 
-Hello, and welcome to our Playbook! We first put all of this content together to share with our team. Then we realised that clients and future collaborators would really be able to benefit from seeing everything that Hanno does, in a single place.
+**Hello**, and welcome to our *Playbook*! We first put all of this content together to share with our team. Then we realised that clients and future collaborators would really be able to benefit from seeing everything that Hanno does, in a single place.
 
 *You can read more about why we've put it online, in our blogpost: [Announcing our Playbook: why we’re defaulting to transparency](http://hanno.co/logbook/defaulting-to-transparency).*
 
@@ -143,7 +143,7 @@ When working on a project sprint, the amount of time that will be spent on clien
 
 ## Holidays
 
-We work Monday-Friday. Since the team is entirely remote, conventional public holidays are not considered days off. 
+We work Monday-Friday. Since the team is entirely remote, conventional public holidays are not considered days off.
 
 For full-time team members, we instead give them **28 days** of holiday, plus the number of days [allocated for UK bank holidays](https://www.gov.uk/bank-holidays) in that year. If there are 8 bank holidays in the calendar year, this means that each shipmate has **28+8 days** of holiday--a total of **36 days**.
 
@@ -245,7 +245,7 @@ If we’ve not worked together before, then the first project we will work on wi
 
 If the sprint goes well, we’ll talk about what we’d both need to do to make things happen again on a more regular basis, whether that's as a full-time core team member, or as a recurring collaborator.
 
- 
+
 # Sprints
 
 ## Sprint Teams
@@ -353,7 +353,3 @@ Code ownership is a big deal for us. When a sprint ends, it’s crucial that eve
 When working on GitHub, we strongly push for the repository to be hosted on the client’s own GitHub account. not our own. By the time the sprint ends, the idea is to seamlessly transition the project across to the client’s own team to manage and maintain on a daily basis.
 
 After the week’s invoice has been paid in full, all code produced in that week is considered to be owned by the client.
-
-___
-
-Like what you see here? We're always on the lookout for awesome shipmates, and great clients. [Get in touch](http://hanno.co/contact)!
