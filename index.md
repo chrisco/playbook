@@ -119,7 +119,7 @@ During discussions with the client up to this point, we’ll give them approxima
 
 ## Flat and Open
 
-Our company is a transparent one--every core team-member has full visibility of company finances and cashflow, via periodic team-wide updates, and weekly billing updates. Salaries and pay are also visible to the whole team and based on a transparent salary forumla we've created.
+Our company is a transparent one--every core team-member has full visibility of company finances and cashflow, via periodic team-wide updates, and weekly billing updates. Salaries and pay are also visible to the whole team and based on a transparent salary formula we've created.
 
 We do not have managers within the team, but we do have *Coaches* who are responsible for supporting the rest of their teams and helping them to do great work. More experienced team members are paid in a way that reflects their experience, but we do not have project managers. The team on each project is responsible for running each project, using the framework we’ve set out in this Playbook.
 
@@ -314,9 +314,7 @@ Our process isn’t necessarily a rigid one, but it typically goes something lik
 	Since all designers on the project are previewing the site with BugHerd running on their local environment too, this allows us to spot UX issues very quickly. Often, another member of the team will flag up a small issue they spot while working on some unrelated functionality, and it’ll be fixed very quickly.
 5. Once we’ve completed a first run-through, we iterate once again, digging deeper this time. Again, all changes are deployed to our staging server immediately and clients will frequently comment.
 6. We'll hold daily calls with the client, where we review progress, talk the product owner through UX decisions, and discuss the business implications of key decisions.
-
 	At this point, we’ve still not added any real visual design--we’re still working with unstyled [Foundation](http://foundation.zurb.com/) or [Bootstrap](http://getbootstrap.com/) HTML/CSS/JS. We like to do this initially until we’ve covered the biggest design decisions, rather than prematurely getting too deep into UI design.
-
 	It’s important to emphasise this to the client--they won’t see any of their own branding appearing until we’re well into the process. Not seeing distracting visuals too soon encourages them to focus on UX and functionality, not stylistic decisions.
 7. We’ll then aim to build out a [pattern library](http://demo.pattern-lab.info/?p=all) for the application. This is again dependent on the time we have available.
 8. These general styles then get layered onto the app, fleshing out the design further and raising further questions to discuss with the client.
