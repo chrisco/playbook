@@ -1,6 +1,8 @@
 # Playbook
 
-Powering [playbook.hanno.co](http://playbook.hanno.co)
+Powering [playbook.hanno.co](http://playbook.hanno.co).
+
+DNS hosting is taken care of over at hover.com.
 
 ## How to use it
 
