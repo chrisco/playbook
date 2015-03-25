@@ -123,6 +123,11 @@ Our company is a transparent one--every core team-member has full visibility of 
 
 We do not have managers within the team, but we do have *Coaches* who are responsible for supporting the rest of their teams and helping them to do great work. More experienced team members are paid in a way that reflects their experience, but we do not have project managers. The team on each project is responsible for running each project, using the framework we’ve set out in this Playbook.
 
+## Design thinking
+
+We're huge fans of [design thinking](http://hanno.co/logbook/the-hanno-design-thinking-think-tank) and we use the approach very frequently, especially when working on shorter, 1 week _Product Design Sprints_ with our clients.
+
+
 ## Joining the client’s team
 
 We are a remote team--to be a high-performing member of this team, you need to be an excellent communicator.
