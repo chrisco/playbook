@@ -16,6 +16,17 @@ DNS hosting is taken care of over at hover.com.
 
 ### How to use it
 
-Clone this repository, and then run `jekyll -w serve` inside the directory.
+1. Clone this repository
+2. Make sure you're on the `gh-pages` branch
+2. ` $ bundle`
+3. Run `$ jekyll -w serve` inside the directory
+4. Visit `http://localhost:4000`
+
+If it fails, you might need to select a specific ruby version. `$ rvm use 2.1.0` might help, if you have Ruby 2.1.0 installed.
 
 All your changes will be deployed to the live Playbook when you push to the repo.
+
+
+###Deployment 
+
+GitHub pages runs Jekyll natively. 'Deployment' is handled by them, and happens as soon as you push to the `gh-pages` branch.

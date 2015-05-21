@@ -5,83 +5,119 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-    <title>{{ site.name }} - {{ site.description }}</title>
-    <meta name="description" content="{{ site.meta_description}}" />
+  <title>{{ site.name }} - {{ site.description }}</title>
+  <meta name="description" content="{{ site.meta_description}}" />
 
-    <meta name="HandheldFriendly" content="True" />
-    <meta name="MobileOptimized" content="320" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="stylesheet" href="https://hanno.co/assets/stylesheets/app.1.css">
+  <link rel="stylesheet" href="https://hanno.co/assets/stylesheets/app.1.css">
 
-    <link rel="stylesheet" href="/assets/css/main.css">
-    
-    <!--TODO: update when the main site changes are live-->
-    <style>
-    	.article h1 {
-    		margin-top: 1.5rem;
-    		margin-bottom: 3rem;
-    	}
-    	
-    	article nav li {
-    		margin-bottom: 0.25rem;
-    	}
-    	
-    	hr.brand-divider {
-    		margin: 3rem auto 0;
-    	}
-    	
-    	h3 {
-    		letter-spacing: -1px;
-    	}
-    	
-    	li {
-    		margin-bottom: 0.5rem;
-    	}
-    	
-    	p,
-	li {
-		font-size: 0.785rem;
-		line-height: 1.4;
-	}
-	
-	img {
-		margin-bottom: 1rem;
-	}
-	
-	@media screen and (min-width: 40.063em) {
-		
-		p,
-		li {
-			font-size: 0.95rem;
-			line-height: 1.45;
-		}
-	}
-	
-	@media screen and (min-width: 64.063em) {
-		
-		p,
-		li {
-			font-size: 1rem;
-			line-height: 1.5;
-		}
-	}
-    </style>
+  <link rel="stylesheet" href="/assets/css/main.css">
+
+  <!--TODO: update when the main site changes are live-->
+  <style>
+  body {
+    /*There's a strange @media class on the main site adding padding to the body on smaller screens. Override it*/
+    padding-top: 0 !important;
+  }
+
+  .article h1 {
+    margin-top: 1.5rem;
+    margin-bottom: 3rem;
+  }
+
+  article nav li {
+    margin-bottom: 0.25rem;
+  }
+
+  hr.brand-divider {
+    margin: 3rem auto 0;
+  }
+
+  h3 {
+    letter-spacing: -1px;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+
+  p,
+  li {
+    font-size: 0.785rem;
+    line-height: 1.4;
+  }
+
+  img {
+    margin-bottom: 1rem;
+  }
+
+  @media screen and (min-width: 40.063em) {
+
+    p, li {
+      font-size: 0.95rem;
+      line-height: 1.45;
+    }
+  }
+
+  @media screen and (min-width: 64.063em) {
+    p, li {
+      font-size: 1rem;
+      line-height: 1.5;
+    }
+  }
+
+  .pushbar {
+    background-color: rgba(245, 0, 0, 0.85);
+    color: white;
+    padding: 5px 15px;
+    display: block;
+    width: 100%;
+    bottom: 0;
+    z-index: 10;
+    text-align: center;
+  }
+
+  @media screen and (min-width: 64.063em) {
+    .pushbar {
+      position: fixed;
+    }
+  }
+
+  .pushbar p {
+    margin: 5px;
+    font-size: 0.8em;
+  }
+
+  .pushbar p a {
+    color: white;
+    text-decoration: underline;
+  }
+
+  .pushbar .twitter-follow-button {
+    margin-bottom: -5px;
+    margin-left: 5px;
+  }
+  </style>
 
 </head>
 <body>
 
-<div id="st-container" class="st-container st-hideatstart">
+  <div class="pushbar">
+    <p><strong>Get the latest transparency updates from Hanno!</strong> <a class="twitter-follow-button" href="https://twitter.com/wearehanno">Follow @wearehanno</a> or <a href="https://confirmsubscription.com/h/j/AD649DF7BDBBC3B8" title="Get the Hanno newsletter">sign up to our monthly roundup email</a>.</p>
+  </div>
 
 	<!--TODO: update when the main site changes are live-->
 	<section class="hero hero--contact" style="background-position: center 85%">
 		<div class="row">
 			<div class="columns">
 
-				<h1>Hanno's Playbook</h1>
+				<h1>The Playbook</h1>
 				<p class="subheader">This is the way we sail our ship.</p>
 
 			</div>
@@ -91,9 +127,7 @@
 	<article class="">
 		<div class="row">
 			<div class="columns medium-10 medium-centered large-9 post-content">
-
 				{{content}}
-
 			</div>
 		</div>
 	</article>
@@ -108,7 +142,7 @@
 					<h1>Like the cut of our jib?</h1>
 					<p class="subheader">We're always on the lookout for great people to work with&mdash;both shipmates, and clients. Drop us a message, and let's talk about what we can build together.</p>
 					<a class="button outline primary" href="https://hanno.co/contact">Get in touch</a>
-	
+
 				</div>
 			</div>
 
@@ -116,16 +150,33 @@
 
 	</footer>
 
+  <script type="text/javascript" src="/assets/js/jquery-2.1.1.min.js"></script>
+  <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+  <script type="text/javascript" src="/assets/js/index.js"></script>
+  <script type="text/javascript" src="/assets/js/toc.min.js"></script>
 
+  <script>
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
 
-    <script type="text/javascript" src="/assets/js/jquery-2.1.1.min.js"></script>
-    <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
-    <script type="text/javascript" src="/assets/js/index.js"></script>
-    <script type="text/javascript" src="/assets/js/toc.min.js"></script>
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
 
-    <script type="text/javascript">
-	$(document).ready(function() {
-	    $('#toc').toc({
+    return t;
+  }(document, "script", "twitter-wjs"));
+  </script>
+
+  <script type="text/javascript">
+  $(document).ready(function() {
+   $('#toc').toc({
 		    'selectors': 'h1,h2,h3', //elements to use as headings
 		    'container': '.post-content', //element to find all selectors in
 		    'smoothScrolling': true, //enable or disable smooth scrolling on click
@@ -134,25 +185,25 @@
 		    'highlightOnScroll': true, //add class to heading that is currently in focus
 		    'highlightOffset': 100, //offset to trigger the next headline
 		    'anchorName': function(i, heading, prefix) { //custom function for anchor name
-		        return prefix+i;
-		    },
+          return prefix+i;
+        },
 		    'headerText': function(i, heading, $heading) { //custom function building the header-item text
-		        return $heading.text();
-		    },
+          return $heading.text();
+        },
 		'itemClass': function(i, heading, $heading, prefix) { // custom function for item class
-		  return $heading[0].tagName.toLowerCase();
-		}
-		});
-	});
-	</script>
+      return $heading[0].tagName.toLowerCase();
+    }
+  });
+ });
+  </script>
 
-    <script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-		ga('create', 'UA-304290-12', 'auto');
-		ga('send', 'pageview');
-	</script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-304290-12', 'auto');
+  ga('send', 'pageview');
+  </script>
 </body>
 </html>
