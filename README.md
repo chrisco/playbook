@@ -2,9 +2,8 @@
 
 ##[The wiki](https://github.com/wearehanno/playbook/wiki)
 
-This is the main bit. We're trying to get this to be as comprehensive as possible, and migrate everything away from being inside The Hanno Manual, internlly.
+This is the main bit. We're trying to get this to be as comprehensive as possible, and migrate everything away from being inside The Hanno Manual we used to use internlly.
 
-It's currently private, but we'll probably open-source it later on.
 
 ##The [Playbook website](http://playbook.hanno.co).
 
