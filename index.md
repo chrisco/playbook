@@ -4,9 +4,7 @@ title: The Hanno Playbook
 cover: false
 ---
 
-**Hello**, and welcome to our *Playbook*! We first put all of this content together to share with our team. Then we realised that clients and future collaborators would really be able to benefit from seeing everything that Hanno does, in a single place.
-
-*You can read more about why we've put it online, in our blogpost: [Announcing our Playbook: why we’re defaulting to transparency](http://hanno.co/logbook/defaulting-to-transparency).*
+**Hello**, and welcome to our *Playbook*! As part of our [commitment to transparency](http://hanno.co/logbook/defaulting-to-transparency), we've decided to put all of the information about Hanno into a single place so that clients, shipmates and future collaborators can benefit from everything we've learned.
 
 There’s a lot of content in here&mdash;it’s the ever-evolving instruction manual our team uses to run great projects. And it’s the key to our success. By getting it out in the open, we hope it can help others to improve the way they work, and help future clients and teammates to get up and running on our projects as fast as possible!
 
@@ -16,7 +14,33 @@ Pick a heading, and let's get started:
 
 <hr>
 
-# Qualification
+# About Us
+
+## Mission
+
+Hanno is a remote design studio for startups. We operate as a [social business](https://logbook.hanno.co/social-business/) (similar to a B-Corp). We believe that design has the power to amplify and accelerate the good that socially motivated entrepreneurs are doing. Now we’re actively looking to invest our time and use our design skills to help them solve major problems related to the **environment**, **education** and **healthcare**.
+
+## Social Good
+
+So what does being a *social business* entail?
+
+* We are ceasing to be a profit-maximising company. We define success not in terms of profits, but in the progress we make towards solving social problems.
+* But we are not a charity. We are financially self-sustainable and don’t rely on grants and donations
+* We don’t deliver dividends and returns to investors or shareholders. Money is paid to our team in return for the work they do for the company. Any remaining profit is reinvested in the business itself or in the social startups we help, with the aim of increasing social impact.
+
+In addition to being a social business ourselves, our goal is to accelerate other social businesses and startups. We aim to enable and multiply social good by others, in order to make the biggest impact possible.
+
+
+## Internal Priorities
+
+As of August 2015, our top 3 business priorities are:
+
+1. **Find a solid financial footing**: Continue to win quality clients which are compatible with our ethos, so that we can transition to social good. Build funds and ensure financial stability so that everything else can follow.
+2. **Build a reputation for world-leading remote design**: Build our expertise and reputation steeply. Become a team which is named by others as being one of the best in the design industry, especially when it comes to designing remotely.
+3. **Make a social impact**: identify exactly how we will identify and change systems in need of change, and accelerate other social businesses. Take major steps towards making this happen.
+
+
+# New Projects
 
 ## The Enquiry
 
@@ -117,7 +141,7 @@ During discussions with the client up to this point, we’ll give them approxima
 
 <hr>
 
-# The Way We Work
+<h1 id="operate">How We Operate</h1>
 
 ## Flat and Open
 
