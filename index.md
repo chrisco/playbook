@@ -14,8 +14,8 @@ Pick a heading, and let's get started:
 
 <nav id="toc"></nav>
 
+<hr>
 
-<hr class="brand-divider">
 # Qualification
 
 ## The Enquiry
