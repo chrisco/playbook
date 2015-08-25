@@ -1,43 +1,45 @@
 /* Rosario. I've added and changed few things. Feel free to change it as you like */
-
 /* Font size of 2.0 is too big, I'll reduce it */
-
 /* Reduce font size and add line-height*/
-/*pre {*/
-/*	font-size: 0.75em;*/
-/*	line-height: 1.4em;*/
-/*}*/
 
-/*li.h1 a {*/
-/*	font-weight: bold;*/
-/*}*/
-
-/*li.h3 {*/
-/*	margin-left: 50px;*/
-/*}*/
-/*li.h2 {*/
-/*	margin-left: 25px;*/
-/*}*/
-
-/*article {*/
-/*	margin: 4% 0;*/
-/*}*/
-
-/*article h1 {*/
-/*	margin: 6% 0;*/
-/*	text-align: center;*/
-/*}*/
-
-/*.main-content {*/
-/*	padding-top: 0;*/
-/*}*/
-
-/*.main-content .focus-title--contact h1 {*/
-/*	margin-top: 15px;*/
-/*}*/
-
-.hero--playbook {
-	background: url(https://hanno.co/assets/images/photos/banner_03.jpg) right center no-repeat, $hanno-red;
+pre {
+	font-size: 0.75em;
+	line-height: 1.4em;
 }
 
-/* */
+li.h1 a {
+	font-weight: bold;
+}
+
+li.h3 {
+	margin-left: 50px;
+}
+
+li.h2 {
+	margin-left: 25px;
+}
+
+article {
+	margin: 4% 0;
+}
+
+article h1 {
+	margin: 6% 0;
+	text-align: center;
+}
+
+.main-content {
+	padding-top: 0;
+}
+
+.hero--playbook {
+	background: url(https://hanno.co/media/banner_03.jpg) right center no-repeat, #e23d28;
+}
+
+	.hero--playbook:before {
+		background: rgba(226, 61, 40, 0.88);
+	}
+
+	.hero--playbook h1 {
+		margin-top: 1rem;
+	}
