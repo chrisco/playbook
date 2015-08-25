@@ -15,67 +15,63 @@
   <meta name="MobileOptimized" content="320" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <link rel="stylesheet" href="https://hanno.co/assets/stylesheets/app.1.css">
-
+  <link rel="stylesheet" href="https://hanno.co/assets/stylesheets/app.2.css">
   <link rel="stylesheet" href="/assets/css/main.css">
 
-  <!--TODO: update when the main site changes are live-->
   <style>
   body {
     /*There's a strange @media class on the main site adding padding to the body on smaller screens. Override it*/
     padding-top: 0 !important;
   }
 
-  @media screen and (min-width: 40.063em) {
-  .hero__main-logo {
-    margin-bottom: -2rem;
-  }
-  }
+  /*@media screen and (min-width: 40.063em) {*/
 
-  .article h1 {
-    margin-top: 1.5rem;
-    margin-bottom: 3rem;
-  }
+  /*}*/
 
-  article nav li {
-    margin-bottom: 0.25rem;
-  }
+  /*.article h1 {*/
+  /*  margin-top: 1.5rem;*/
+  /*  margin-bottom: 3rem;*/
+  /*}*/
 
-  hr.brand-divider {
-    margin: 3rem auto 0;
-  }
+  /*article nav li {*/
+  /*  margin-bottom: 0.25rem;*/
+  /*}*/
 
-  h3 {
-    letter-spacing: -1px;
-  }
+  /*hr.brand-divider {*/
+  /*  margin: 3rem auto 0;*/
+  /*}*/
 
-  li {
-    margin-bottom: 0.5rem;
-  }
+  /*h3 {*/
+  /*  letter-spacing: -1px;*/
+  /*}*/
 
-  p,
-  li {
-    font-size: 0.785rem;
-    line-height: 1.4;
-  }
+  /*li {*/
+  /*  margin-bottom: 0.5rem;*/
+  /*}*/
 
-  img {
-    margin-bottom: 1rem;
-  }
+  /*p,*/
+  /*li {*/
+  /*  font-size: 0.785rem;*/
+  /*  line-height: 1.4;*/
+  /*}*/
 
-  @media screen and (min-width: 40.063em) {
-    p, li {
-      font-size: 0.95rem;
-      line-height: 1.45;
-    }
-  }
+  /*img {*/
+  /*  margin-bottom: 1rem;*/
+  /*}*/
 
-  @media screen and (min-width: 64.063em) {
-    p, li {
-      font-size: 1rem;
-      line-height: 1.5;
-    }
-  }
+  /*@media screen and (min-width: 40.063em) {*/
+  /*  p, li {*/
+  /*    font-size: 0.95rem;*/
+  /*    line-height: 1.45;*/
+  /*  }*/
+  /*}*/
+
+  /*@media screen and (min-width: 64.063em) {*/
+  /*  p, li {*/
+  /*    font-size: 1rem;*/
+  /*    line-height: 1.5;*/
+  /*  }*/
+  /*}*/
 
   .pushbar {
     background-color: rgba(245, 0, 0, 0.85);
@@ -117,12 +113,13 @@
     <p><strong>Get the latest transparency updates from Hanno!</strong> <a class="twitter-follow-button" href="https://twitter.com/wearehanno">Follow @wearehanno</a> or <a href="https://confirmsubscription.com/h/j/AD649DF7BDBBC3B8" title="Get the Hanno newsletter">sign up to our monthly roundup email</a>.</p>
   </div>
 
-	<!--TODO: update when the main site changes are live-->
-	<section class="hero hero--contact" style="background-position: center 85%">
+	<section class="hero hero--playbook color-inverted">
 		<div class="row">
 			<div class="columns">
 
-        <a href="https://hanno.co" title="Head to the Hanno homepage"><img class="hero__main-logo" src="/assets/images/hanno-mark.svg" alt="Hanno Logo"></a>
+		        <a href="https://hanno.co" title="Head to the Hanno homepage">
+		        	<img class="hero__main-logo" src="/assets/images/hanno-mark.svg" alt="Hanno Logo" width="150">
+		        </a>
 				<h1>The Playbook</h1>
 				<p class="subheader">This is the way we sail our ship.</p>
 
@@ -130,12 +127,16 @@
 		</div>
 	</section>
 
-	<article class="">
+	<article class="longform story">
+		
 		<div class="row">
 			<div class="columns medium-10 medium-centered large-9 post-content">
+				
 				{{content}}
+				
 			</div>
 		</div>
+		
 	</article>
 
 	<footer class="global-cta join-cta js__container-outer">
