@@ -103,7 +103,7 @@ The contract covers basics such as:
 * Confidentiality and non-disclosure
 * Legal liabilities
 * Billing and payment terms
-* Engagement terminations - the Engagement can be ended by either us, or the client, giving notice before the end of a sprint week. The Engagement will then end at the end of the week.
+* Engagement terminations&mdash;the Engagement can be ended by either us, or the client, giving notice before the end of a sprint week. The Engagement will then end at the end of the week.
 
 Our contracts are under the laws of England and Wales, and any legal action has to be taken in this jurisdiction. This is an important 'dealbreaker' term for us, which we won't change, since it is required in order for the project to fall under our Professional Indemnity insurance. If this is a dealbreaker for the client, too, we'll have to decline the project.
 
@@ -115,8 +115,8 @@ Before booking a project sprint into our team schedule, we will send an upfront 
 
 During discussions with the client up to this point, we’ll give them approximate estimates for when the project might be able to be scheduled. However, no dates are fixed until we have a signed contract, confirmed *Engagement Summary* and the first invoice has been paid.
 
+<hr>
 
-<hr class="brand-divider">
 # The Way We Work
 
 ## Flat and Open
