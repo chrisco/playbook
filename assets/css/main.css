@@ -1,6 +1,33 @@
-/* Rosario. I've added and changed few things. Feel free to change it as you like */
-/* Font size of 2.0 is too big, I'll reduce it */
-/* Reduce font size and add line-height*/
+/*There's a @media class on the main site adding padding to the body on smaller screens. Override it*/
+body {
+  padding-top: 0 !important;
+}
+
+.pushbar {
+    background-color: rgba(245, 0, 0, 0.85);
+    background: rgba(0, 0, 0, 0.75);
+    color: #fff;
+    padding: 5px 15px;
+    display: block;
+    width: 100%;
+    z-index: 10;
+    text-align: center;
+  }
+
+  .pushbar p {
+    margin: 5px;
+    font-size: 0.8em;
+  }
+
+    .pushbar p a {
+      color: #fff;
+      text-decoration: underline;
+    }
+
+  .pushbar .twitter-follow-button {
+    margin-bottom: -5px;
+    margin-left: 5px;
+  }
 
 pre {
 	font-size: 0.75em;
@@ -33,13 +60,55 @@ article h1 {
 }
 
 .hero--playbook {
-	background: url(https://hanno.co/media/banner_03.jpg) right center no-repeat, #e23d28;
+  padding: 5vh 0;
+	background: url(../images/banner_03.jpg) right center no-repeat, #e23d28;
 }
 
 	.hero--playbook:before {
-		background: rgba(226, 61, 40, 0.88);
+		background: rgba(226, 61, 40, 0.85);
 	}
 
-	.hero--playbook h1 {
-		margin-top: 1rem;
-	}
+  .hero--playbook a {
+    display: block;
+    width: 75px;
+    height: 55px;
+    margin: 0 auto;
+  }
+
+    .hero--playbook a img {
+      width: 100%;
+    }
+
+    .hero--playbook h1,
+    .hero--playbook .subheader {
+      margin-top: 0;
+    }
+
+  @media screen and (min-width: 640px) {
+
+    .hero--playbook {
+      padding: 8vh;
+    }
+
+      .hero--playbook:before {
+        background: rgba(226, 61, 40, 0.7);
+      }
+
+      .hero--playbook a {
+        width: 125px;
+        height: 81px;
+      }
+
+      .hero--playbook h1,
+      .hero--playbook .subheader {
+        margin-top: 1rem !important;
+      }
+
+  }
+
+  @media screen and (min-width: 1024px) {
+
+    .hero--playbook {
+      padding: 18vh;
+    }
+  }
