@@ -1,0 +1,20 @@
+{
+  "name": "playbook",
+  "version": "0.0.0",
+  "homepage": "https://github.com/wearehanno/playbook",
+  "authors": [
+    "Jon Lay <jon@hanno.co>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "contents": "~3.0.3",
+    "jquery": "~2.1.4",
+    "jquery-smooth-scroll": "~1.5.5"
+  }
+}

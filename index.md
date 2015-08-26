@@ -8,21 +8,20 @@ cover: false
 
 There’s a lot of content in here&mdash;it’s the ever-evolving instruction manual our team uses to run great projects. And it’s the key to our success. By getting it out in the open, we hope it can help others to improve the way they work, and help future clients and teammates to get up and running on our projects as fast as possible!
 
-Pick a heading, and let's get started:
-
-<nav id="toc"></nav>
-
-<hr>
 
 # About Us
 
 ## Mission
 
-Hanno is a remote design studio for startups. We operate as a [social business](https://logbook.hanno.co/social-business/) (similar to a B-Corp). We believe that design has the power to amplify and accelerate the good that socially motivated entrepreneurs are doing. Now we’re actively looking to invest our time and use our design skills to help them solve major problems related to the **environment**, **education** and **healthcare**.
+Hanno is a remote design team that works with startups.
+
+We're out to design the world we want to be a part of. That means changing things for the better: reshaping the systems that have a negative impact on humanity and the world.
+
+We aim to amplify and accelerate the good that socially motivated entrepreneurs are doing. We’re actively looking to invest our time and use our design skills to help them solve major problems related to **the environment**, **education** and **healthcare**.
 
 ## Social Good
 
-So what does being a *social business* entail?
+We operate as a [social business](https://logbook.hanno.co/social-business/) (similar to a B-Corp). So what does this entail?
 
 * We are ceasing to be a profit-maximising company. We define success not in terms of profits, but in the progress we make towards solving social problems.
 * But we are not a charity. We are financially self-sustainable and don’t rely on grants and donations

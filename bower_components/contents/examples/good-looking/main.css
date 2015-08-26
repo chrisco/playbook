@@ -1,50 +1,10 @@
-/* Rosario. I've added and changed few things. Feel free to change it as you like */
-/* Font size of 2.0 is too big, I'll reduce it */
-/* Reduce font size and add line-height*/
-
-pre {
-	font-size: 0.75em;
-	line-height: 1.4em;
-}
-
-li.h1 a {
-	font-weight: bold;
-}
-
-li.h3 {
-	margin-left: 50px;
-}
-
-li.h2 {
-	margin-left: 25px;
-}
-
-article {
-	margin: 4% 0;
-}
-
-article h1 {
-	margin: 6% 0;
-	text-align: center;
-}
-
-.main-content {
-	padding-top: 0;
-}
-
-.hero--playbook {
-	background: url(https://hanno.co/media/banner_03.jpg) right center no-repeat, #e23d28;
-}
-
-	.hero--playbook:before {
-		background: rgba(226, 61, 40, 0.88);
-	}
-
-	.hero--playbook h1 {
-		margin-top: 1rem;
-	}
+body, main, aside, article, ul, ol, li, h1, h2, h3, hr, p {
+  display: block;
+  margin: 0;
+  padding: 0; }
 
 body {
+  font: normal 16px/24px 'Helvetica Neue', Helvetica, Arial, freesans, sans-serif;
   background: #F8F9FA; }
 
 aside {
@@ -76,7 +36,7 @@ aside {
       background: #EF4836;
       color: #fff; }
     aside > ol > li.active > a::after {
-      content: 'â€¢';
+      content: '•';
       font-size: 45px;
       line-height: 45px;
       position: absolute;
@@ -84,7 +44,7 @@ aside {
       top: 0;
       color: #fff; }
     aside > ol > li li.active > a::after, aside > ol > li li.active-child > a::after {
-      content: 'â€¢';
+      content: '•';
       font-size: 45px;
       line-height: 45px;
       position: absolute;
@@ -99,7 +59,7 @@ aside {
       background: #EF4836 !important;
       color: #fff; }
     aside > ol > li li:hover > a::after {
-      content: 'â€¢';
+      content: '•';
       font-size: 45px;
       line-height: 45px;
       position: absolute;
@@ -119,6 +79,9 @@ aside {
 main {
   margin: 0 0 0 340px;
   padding: 0 20px; }
+  main hr {
+    border: none;
+    height: 1px; }
 
 article {
   width: 680px;
@@ -129,4 +92,52 @@ article {
   border: 1px solid #D9E0E2;
   overflow: hidden;
   padding: 60px 100px;
-}
+  font: 16px/22px Merriweather, 'times new roman', serif; }
+  article h1, article h2 {
+    text-align: center; }
+    article h1 a, article h2 a {
+      color: #FF3C1F;
+      text-decoration: none; }
+  article h1 {
+    margin: 0 0 20px 0;
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 700;
+    counter-reset: drink;
+    text-transform: uppercase; }
+  article h2 {
+    padding: 20px 0 0 0;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px; }
+    article h2::before {
+      counter-increment: drink;
+      content: counter(drink) '.';
+      font-size: 25px;
+      font-weight: 300; }
+  article p {
+    margin: 20px 0; }
+  article img {
+    display: block;
+    margin: 40px auto;
+    max-width: 100%; }
+  article .serving {
+    text-align: center;
+    font-weight: 300; }
+    article .serving::before {
+      content: '('; }
+    article .serving::after {
+      content: ')'; }
+  article .ingredients {
+    margin: 20px; }
+    article .ingredients li {
+      list-style: none; }
+  article .making {
+    text-indent: 20px; }
+
+#source {
+  color: #666;
+  margin: 20px;
+  text-align: center; }
+  #source a {
+    color: inherit; }
