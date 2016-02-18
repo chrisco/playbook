@@ -210,7 +210,7 @@ Confidentiality of project and client information is important, so each of these
 
 We’ll also send a single booking document, which will set out the dates we’re booking to work together during.
 
-Collaborators will join our team Sqwiggle room, and be added to the project management tools (such as Asana) that they need in order to carry out their roles.
+Collaborators will be added to the project management tools (such as Asana) that they need in order to carry out their roles.
 
 ## Internal communication
 
@@ -219,10 +219,6 @@ We use Slack for internal chatter, including marketing discussion, and general c
 We are [huge fans of Asana](http://hanno.co/logbook/asana-vs-jira-lean-tools-project-management) and use it to manage the majority of on-project internal discussions, and anything that requires a task to be completed. We also keep open an internal Basecamp project called *Hanno Team News*, into which the team posts occasional discussions, and also financial updates and planning.
 
 We have an internal rule: **default to Asana**. It’s very rare for anyone on the team to email each other.
-
-When you’re online, you should be signed into our [Sqwiggle](http://sqwiggle.com/) account and leave your webcam on. At first, it’ll feel intimidating, but really, it’s no different from working in an office or coworking space. Frankly, nobody cares what you look like, but they do care about feeling a connection to other people in the team, even if we’re all on different timezones and in different locations.
-
-![image alt text](/assets/images/sqwiggle.png)
 
 As for the tools we use for each project&mdash;that really depends on the project. We’ll often use Asana to run projects, but if the client has a defined workflow and we need to integrate into it, we’ll switch from anything from GitHub issues, to apps such as JIRA.
 
