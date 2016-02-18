@@ -174,15 +174,15 @@ When working on a project sprint, the amount of time that will be spent on clien
 
 ## Holidays
 
-We work Monday-Friday. Since the team is entirely remote, conventional public holidays are not considered days off.
+We work on client sprints from Monday to Friday. Since the team and clients are entirely remote, we don't stop client work on public holidays. Although it's rare for us to work over Christmas and New Year.
 
-For full-time team members, we instead give them **28 days** of holiday, plus the number of days [allocated for UK bank holidays](https://www.gov.uk/bank-holidays) in that year. If there are 8 bank holidays in the calendar year, this means that each shipmate has **28+8 days** of holiday&mdash;a total of **36 days**.
+Full-time shipmates make their own decisions about how much holiday they'd like to take. We try to make sure that everyone takes **35 days a year** and that's usually the basis that most shipmates use to set their salaries. Some decide to take much more holiday than this, but choose a lower salary to compensate for it.
 
-Shipmates should announce holiday plans on Basecamp or Asana to check for scheduling issues. If the rest of the team confirms, they should then add the holiday dates into both Forecast, and also our shared team calendar in Google Apps.
+Shipmates announce their holiday plans on Slack to check for scheduling issues. If there are no major problems, they then add their holiday dates into Forecast.
 
-It’s rarely an issue to get holiday approval if you’re booking more than 2 months in advance. For shorter requests, it will depend upon sprint scheduling.
+There's rarely going to be a scheduling issue if you’re booking more than 2 months in advance. For shorter requests, it will depend upon sprint scheduling and whether we can find other shipmates or collaborators to help to make up for the absent shipmates.
 
-To minimise holiday disruptions, we ask that shipmates try and plan holidays to avoid departing mid sprint. Since sprints run Wednesday to Tuesday, this means that departing on Wednesdays, and returning on Tuesdays, is most efficient.
+To minimise holiday disruptions, we ask that shipmates try and plan holidays to avoid departing mid sprint. Since sprints run Wednesday to Tuesday, this means that departing on Wednesdays, and returning on Tuesdays is easiest for everyone.
 
 ## Remote Work
 
@@ -196,9 +196,9 @@ Several of our team members are nomadic, or at least, spend several months of th
 
 ## Team Trips
 
-Periodically, our whole core team gets together for team trips. The destination for each trip is put to a team vote a few months before we depart. So far, we’ve visited [Spain](http://hanno.co/logbook/practice-what-you-preach), [Malaysia and Hong Kong](http://hanno.co/logbook/helipads-durian-monkeys-websites). Since we rarely see each other face-to-face, these trips are a really important way for us to spend time together and learn how to grow and improve.
+Periodically, our whole core team gets together for team trips. The destination for each trip is put to a team vote a few months before we depart. So far, we’ve visited [Spain](http://hanno.co/logbook/practice-what-you-preach), [Croatia](https://logbook.hanno.co/rethinking-social-purpose-croatia/), [Malaysia and Hong Kong](http://hanno.co/logbook/helipads-durian-monkeys-websites). Since we rarely see each other face-to-face, these trips are a really important way for us to spend time together and learn how to grow and improve.
 
-Our current team trip format is for the trips to be just under 2 weeks in total. This includes 2 weekends, which sandwich a 5 day week, where we work on internal projects and hack weeks.
+Our current team trip format is for the trips to be around 9 days in total. This includes 2 weekends, which sandwich a 5 day week, where we work on internal projects and hack weeks.
 
 During the team trip, we’re unavailable for client work, and we schedule client sprints accordingly, to give us the time and space to make each trip a big success.
 
