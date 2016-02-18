@@ -2,7 +2,7 @@ name: Hanno's Playbook
 description: How we sail our ship
 meta_description: "How Hanno works - for our clients and our team"
 
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 logo: false
 
