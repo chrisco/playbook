@@ -18,7 +18,9 @@ Pick a heading, and let's get started:
 
 ## Mission
 
-Hanno is a remote design studio for startups. We operate as a [social business](https://logbook.hanno.co/social-business/) (similar to a B-Corp). We believe that design has the power to amplify and accelerate the good that socially motivated entrepreneurs are doing. Now we’re actively looking to invest our time and use our design skills to help them solve major problems related to the **environment**, **education** and **healthcare**.
+We're a fully remote design team. We build digital products that grow and scale startups. Recently we've been using our startup expertise to help big businesses to innovate, explore new markets and work in a more purposeful way.
+
+We operate as a [social business](https://logbook.hanno.co/social-business/) (similar to a B-Corp). We believe that design has the power to amplify and accelerate the good that socially motivated entrepreneurs are doing. Now we’re actively looking to invest our time and use our design skills to help them solve major problems related to the **environment**, **education** and **healthcare**.
 
 ## Social Good
 
@@ -44,7 +46,7 @@ As of August 2015, our top 3 business priorities are:
 
 ## The Enquiry
 
-New projects come about when the client fills out our [Project Planner](https://hanno.typeform.com/to/Pp3YCw) form. We have a [Zapier](https://zapier.com/) hook, which adds the enquiry as a task inside our *Pitches* project inside Asana. Pitches are sorted according to their current status: iceboxed, paused, qualifying, negotiating. The whole team is added as a follower to the ongoing pitch, so they're kept informed.
+New projects come about when the client fills out our [contact form](https://hanno.co/contact) form. We have a [Zapier](https://zapier.com/) hook, which adds the enquiry as a task inside our *Pitches* project inside Asana. Pitches are sorted according to their current status: iceboxed, paused, qualifying, negotiating. The whole team is added as a follower to the ongoing pitch, so they're kept informed.
 
 In order to progress, enough members of the team must express interest in the project for us to think we could assemble a team to work on it. If there’s no team interest, we’ll apologetically decline the lead. Where appropriate, we’ll offer a suggestion for where they might look next.
 
@@ -62,7 +64,7 @@ Some key questions that we'll discuss:
 2. **Discover their vision.** Gauge technical expertise and level of expectations. Do they sound smart, focused and knowledgeable about their goals and business? A lack of technical expertise is a solvable problem, but needs to later be factored into budgets, for increased project time and more thorough training.
 3. **Understand a little more about their requirements.** This is not a deep scoping session, yet, but we'll likely need to fill in a few gaps in our knowledge and understand a little more about the work that's required. This will help us to understand the team that’ll be needed for the project.
 4. **Discover their level of commitment.** Who will we be working with&mdash;who will be the *product owner* at the client's end? This [shouldn’t be the CEO](http://hanno.co/logbook/ceo-product-owner).
-5. **Sound out their budget.** Be accepting of a degree of inexperience - not all clients know exactly how much this will cost. But be very cautious if their budget expectations are vastly out of sync with what’s required for the project to succeed. Squeezed budgets don’t allow the time and thought to deliver great results, and we should make sure we don't put ourselves in a position where the client might be left unhappy at the end of the project.
+5. **Sound out their budget.** Be accepting of a degree of inexperience&mdash;not all clients know exactly how much this will cost. But be very cautious if their budget expectations are vastly out of sync with what’s required for the project to succeed. Squeezed budgets don’t allow the time and thought to deliver great results, and we should make sure we don't put ourselves in a position where the client might be left unhappy at the end of the project.
 6. **Discuss a very loose timeline.** Ahead of the call, the team will check out our upcoming project schedule on [Forecast](https://forecastapp.com) to see what our availability is. But we won't commit to a project deadline or set schedule on the call, because this will need to be discussed with the rest of the team beforehand.
 
 Team members should be careful not to commit to specific dates in early client calls, so that the client isn't disappointed when these dates are investigated more deeply and turn out to not be achievable. Be aware that getting through the early stages of contract signing and invoice payment can be more time-consuming than you might expect.
@@ -114,7 +116,7 @@ International clients can pay directly via [Stripe](https://stripe.com/gb) and U
 
 ## Business details
 
-We’ll also send the client a link to our business details form. This is a form attached to a Google spreadsheet. Once they complete it, it will automatically create profiles for them inside [FreeAgent](http://www.freeagent.com/) (our billing platform) and inside our other apps.
+We’ll also send the client a link to our business details form. This is a form attached to a Google spreadsheet. Once they complete it, it will automatically create profiles for them inside [Xero](https://xero.com/) (our billing platform) and inside our other apps.
 
 ## The Consulting Contract
 
@@ -145,9 +147,7 @@ During discussions with the client up to this point, we’ll give them approxima
 
 ## Flat and Open
 
-Our company is a transparent one&mdash;every core team-member has full visibility of company finances and cashflow, via periodic team-wide updates, and weekly billing updates. Salaries and pay are also visible to the whole team and based on a transparent salary formula we've created.
-
-We do not have managers within the team, but we do have *Coaches* who are responsible for supporting the rest of their teams and helping them to do great work. More experienced team members are paid in a way that reflects their experience, but we do not have project managers. The team on each project is responsible for running each project, using the framework we’ve set out in this Playbook.
+Our company is a transparent one&mdash;every core team-member has full visibility of company finances and cashflow, via periodic team-wide updates, and weekly billing updates. Salaries and pay are also visible to the whole team and each shipmate [chooses his/her salary](https://logbook.hanno.co/choose-your-own-salary/).
 
 ## Design thinking
 
@@ -160,7 +160,7 @@ We are a remote team&mdash;to be a high-performing member of this team, you need
 
 We don’t see a place for the old-school ‘design agency’ in today’s world&mdash;times have changed. We know full well that the old, broken, waterfall-based model just isn’t compatible with the way good companies work, these days.
 
-We are unusually hands-on with our clients. The goal on every project is to fit together seamlessly with the client’s team, to collaborate, teach, and work towards shared goals. That includes our project team’s IM conversations. Memes and all.
+We are unusually hands-on with our clients. The goal on every project is to fit together seamlessly with the client’s team, to collaborate, teach, and work towards shared goals. That includes onboarding our client on our project’s team IM conversations in [Slack](https://slack.com).
 
 ![image alt text](/assets/images/slack.png)
 
@@ -178,7 +178,7 @@ We work on client sprints from Monday to Friday. Since the team and clients are 
 
 Full-time shipmates make their own decisions about how much holiday they'd like to take. We try to make sure that everyone takes **35 days a year** and that's usually the basis that most shipmates use to set their salaries. Some decide to take much more holiday than this, but choose a lower salary to compensate for it.
 
-Shipmates announce their holiday plans on Slack to check for scheduling issues. If there are no major problems, they then add their holiday dates into Forecast.
+Shipmates announce their holiday plans on Slack to check for scheduling issues. If there are no major problems, they then add their holiday dates into [Forecast](https://forecastapp.com].
 
 There's rarely going to be a scheduling issue if you’re booking more than 2 months in advance. For shorter requests, it will depend upon sprint scheduling and whether we can find other shipmates or collaborators to help to make up for the absent shipmates.
 
@@ -216,7 +216,7 @@ Collaborators will be added to the project management tools (such as Asana) that
 
 We use Slack for internal chatter, including marketing discussion, and general chat between shipmates.
 
-We are [huge fans of Asana](http://hanno.co/logbook/asana-vs-jira-lean-tools-project-management) and use it to manage the majority of on-project internal discussions, and anything that requires a task to be completed. We also keep open an internal Basecamp project called *Hanno Team News*, into which the team posts occasional discussions, and also financial updates and planning.
+We are [huge fans of Asana](http://hanno.co/logbook/asana-vs-jira-lean-tools-project-management) and use it to manage the majority of on-project internal discussions, and anything that requires a task to be completed. We also keep open an internal [Basecamp](https://basecamp.com/) project called *Hanno Team News*, into which the team posts occasional discussions, and also financial updates and planning.
 
 We have an internal rule: **default to Asana**. It’s very rare for anyone on the team to email each other.
 
@@ -236,11 +236,11 @@ We use [Screenhero](https://screenhero.com/) lots for internal pairing sessions,
 
 ## Performance and coaching
 
-One of our most important cultural values is that we will [never settle](http://hanno.co/about#team). This means we work really hard to help our shipmates grow.
+One of our most important cultural values is that we will [never settle](https://hanno.co/purpose/). This means we work really hard to help our shipmates grow.
 
 ### Weekly Planning
 
-We track our weekly Plans, Progress and Problems inside [WeekDone](https://weekdone.com/). We'll keep our top 4+ plans for the next 7 days inside here, whether work-based ("ship new marketing copy for Client A"), or personal ("hit the gym 4 times"; "cut down on coffee") so that the whole team can see them.
+We track our weekly [Plans, Progress and Problems](https://logbook.hanno.co/ppp-plans-progress-problems/) inside [WeekDone](https://weekdone.com/). We'll keep our top 4+ plans for the next 7 days inside here, whether work-based ("ship new marketing copy for Client A"), or personal ("hit the gym 4 times"; "cut down on coffee") so that the whole team can see them.
 
 We all give support and encouragement to our shipmates, and if someone seems to be struggling, anyone can jump in to help out.
 
@@ -325,15 +325,15 @@ Every morning, the team will paste a blank Google Doc template called the *PPP* 
 
 At the end of the day, the PPP document will be edited to be publicly visible to anyone with the link, and then dropped into Basecamp. This way, even someone on the client’s team who isn’t directly involved in the day-to-day decisions, can be kept updated and informed.
 
-We also have regular internal standups within the team&mdash;clients are welcome to join. There should be at least 1 call every day between 1 or more member of our team, and the product owner, to make sure the project runs smoothly.
+We also have regular internal standups within the team&mdash;clients are welcome to join. There should be at least 1 call every day between 1 or more members of our team, and the product owner, to make sure the project runs smoothly.
 
 Most of the day-to-day project communication will happen on the project’s Slack room. Project team members will *CHICO* (check-in and check-out) to let everyone on the project know their daily timings, including when they’ll be back online the next day.
 
 ## Bootstrapping
 
-A large number of our projects involve *rapid prototyping*&mdash;here, we quickly scaffold out a product in HTML, CSS and Javascript. Our [Riggings repository](https://github.com/wearehanno/riggings), which you can see on GitHub, is usually the real-world starting-point for this.
+A large number of our projects involve *rapid prototyping*&mdash;here, we quickly scaffold out a product in HTML, CSS and Javascript. Our [Riggings repository](https://github.com/wearehanno/riggings), which you can see on GitHub, is usually the real-world starting-point for this if we're building a web app or product.
 
-Our process isn’t necessarily a rigid one, but it typically goes something like this, on a UX and prototyping focused project:
+Our process isn’t necessarily a rigid one, but it typically goes something like this, on a UX and prototyping focused project for a web-based app. Mobile is a little different, but this should give you a good idea of how things usually go down:
 
 1. Complete the Day 1 kickoff: identify and prioritise user stories and agree a workable scope for the project, or the sprint at hand. Make sure the client is clear on the focus here: to work towards a MVP as soon as possible, to allow us to solve the tricky problems sooner. We get more fine-grained, later on.
 2. Discuss and delve deeper into requirements if necessary, where these are complex and require more research.
@@ -352,8 +352,7 @@ Our process isn’t necessarily a rigid one, but it typically goes something lik
 ### Some technical notes
 
 * Each time a commit is made, our Slack project room receives a push notification from the repository.
-* Changes pushed to the repo are automatically deployed to the server. We often fire up a [DigitalOcean](https://www.digitalocean.com/) box as a staging server.
-* [CodeShip](http://codeship.io/) will be used to run simple build tests and handle the deployment over to the server.
+* Changes pushed to the repo are automatically deployed to the server. We usually use a quick [Netlify](https://netlify.com/) site for both staging and production.
 * The idea is that clients see work happening live and there is never any ‘big reveal’ at any part of the process.
 * We use a [git flow branching model](http://nvie.com/posts/a-successful-git-branching-model/) to allow multiple designers to work on the project at once.
 
