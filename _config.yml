@@ -3,7 +3,6 @@ description: How we sail our ship
 meta_description: "How Hanno works - for our clients and our team"
 
 markdown: kramdown
-pygments: true
 logo: false
 
 # Details for the RSS feed generator
