@@ -153,9 +153,6 @@ Our company is a transparent one&mdash;every core team-member has full visibilit
 
 We’ve created our own [design thinking wiki](https://github.com/wearehanno/designthinking/wiki) in which we openly share the tools and processes our team uses during sprints. Since then we’ve come a long way and have also figured out [how to use design thinking remotely](https://logbook.hanno.co/remote-design-thinking-with-murally/).
 
-We're huge fans of [design thinking](https://logbook.hanno.co/the-hanno-design-thinking-think-tank/) and we use the approach very frequently, especially when working on shorter, 1 week _Product Design Sprints_ with our clients.
-
-
 ## Joining the client’s team
 
 We are a remote team&mdash;to be a high-performing member of this team, you need to be an excellent communicator.
