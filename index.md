@@ -4,7 +4,7 @@ title: The Hanno Playbook
 cover: false
 ---
 
-**Hello**, and welcome to our *Playbook*! As part of our [commitment to transparency](http://hanno.co/logbook/defaulting-to-transparency), we've decided to put all of the information about Hanno into a single place so that clients, shipmates and future collaborators can benefit from everything we've learned.
+**Hello**, and welcome to our *Playbook*! As part of our [commitment to transparency](https://logbook.hanno.co/defaulting-to-transparency/), we've decided to put all of the information about Hanno into a single place so that clients, shipmates and future collaborators can benefit from everything we've learned.
 
 There’s a lot of content in here&mdash;it’s the ever-evolving instruction manual our team uses to run great projects. And it’s the key to our success. By getting it out in the open, we hope it can help others to improve the way they work, and help future clients and teammates to get up and running on our projects as fast as possible!
 
@@ -63,7 +63,7 @@ Some key questions that we'll discuss:
 1. **Find out why.** Why did the client contact Hanno&mdash;why do they feel that Hanno would be a good match?
 2. **Discover their vision.** Gauge technical expertise and level of expectations. Do they sound smart, focused and knowledgeable about their goals and business? A lack of technical expertise is a solvable problem, but needs to later be factored into budgets, for increased project time and more thorough training.
 3. **Understand a little more about their requirements.** This is not a deep scoping session, yet, but we'll likely need to fill in a few gaps in our knowledge and understand a little more about the work that's required. This will help us to understand the team that’ll be needed for the project.
-4. **Discover their level of commitment.** Who will we be working with&mdash;who will be the *product owner* at the client's end? This [shouldn’t be the CEO](http://hanno.co/logbook/ceo-product-owner).
+4. **Discover their level of commitment.** Who will we be working with&mdash;who will be the *product owner* at the client's end? This [shouldn’t be the CEO](https://logbook.hanno.co/ceo-product-owner/).
 5. **Sound out their budget.** Be accepting of a degree of inexperience&mdash;not all clients know exactly how much this will cost. But be very cautious if their budget expectations are vastly out of sync with what’s required for the project to succeed. Squeezed budgets don’t allow the time and thought to deliver great results, and we should make sure we don't put ourselves in a position where the client might be left unhappy at the end of the project.
 6. **Discuss a very loose timeline.** Ahead of the call, the team will check out our upcoming project schedule on [Forecast](https://forecastapp.com) to see what our availability is. But we won't commit to a project deadline or set schedule on the call, because this will need to be discussed with the rest of the team beforehand.
 
@@ -75,7 +75,7 @@ The shipmate(s) involved at our end will report back to the rest of the team wit
 
 They’ll also make a preliminary recommendation to either accept, or reject the lead&mdash;gut instincts are important. Again, enough team members must be willing to take on the project. If they’re not, we’ll regretfully decline.
 
-We may also decline the project if we feel that while the client is keen, Hanno wouldn’t be the best choice for the project. We want to help all of our clients achieve their goals. Sometimes, we’re simply not the right team for the job. If there’s [a product or service out there that would be more suited to a client's budget](http://hanno.co/logbook/reinventing-wheel), we’ll tell them about this, even if it means we're giving up a potential project in order to save the client money. We feel that’s an ethical route to take, and will leave everyone in a better position in the long-run.
+We may also decline the project if we feel that while the client is keen, Hanno wouldn’t be the best choice for the project. We want to help all of our clients achieve their goals. Sometimes, we’re simply not the right team for the job. If there’s <a href="https://logbook.hanno.co/reinventing-wheel/" class="wrap-normal">a product or service out there that would be more suited to a client's budget</a>, we’ll tell them about this, even if it means we're giving up a potential project in order to save the client money. We feel that’s an ethical route to take, and will leave everyone in a better position in the long-run.
 
 ### RFPs
 
@@ -151,7 +151,7 @@ Our company is a transparent one&mdash;every core team-member has full visibilit
 
 ## Design thinking
 
-We're huge fans of [design thinking](http://hanno.co/logbook/the-hanno-design-thinking-think-tank) and we use the approach very frequently, especially when working on shorter, 1 week _Product Design Sprints_ with our clients.
+We're huge fans of [design thinking](https://logbook.hanno.co/the-hanno-design-thinking-think-tank/) and we use the approach very frequently, especially when working on shorter, 1 week _Product Design Sprints_ with our clients.
 
 
 ## Joining the client’s team
@@ -168,7 +168,7 @@ We are unusually hands-on with our clients. The goal on every project is to fit 
 
 The workday for a shipmate at Hanno is **8 working hours**&mdash;while in rare situations it may be a little longer, this is the goal we hold ourselves to. If any shipmate is consistently working longer than this, that indicates that there’s a problem to be resolved.
 
-As a team, we are highly productive and [invest heavily in tools](http://hanno.co/logbook/investing-in-tools-no-brainer) to allow us to be this way. Our philosophy is always that the number of hours worked has no correlation with the quality of work produced.
+As a team, we are highly productive and [invest heavily in tools](https://logbook.hanno.co/investing-in-tools-no-brainer/) to allow us to be this way. Our philosophy is always that the number of hours worked has no correlation with the quality of work produced.
 
 When working on a project sprint, the amount of time that will be spent on client work will be up to **7 hours** (lunch break not included) in a day. The remaining hour in the day goes towards off-sprint work such as internal reviews, research, planning and internal work, all of which allows us to deliver better results when we’re on a sprint.
 
@@ -196,7 +196,7 @@ Several of our team members are nomadic, or at least, spend several months of th
 
 ## Team Trips
 
-Periodically, our whole core team gets together for team trips. The destination for each trip is put to a team vote a few months before we depart. So far, we’ve visited [Spain](http://hanno.co/logbook/practice-what-you-preach), [Croatia](https://logbook.hanno.co/rethinking-social-purpose-croatia/), [Malaysia and Hong Kong](http://hanno.co/logbook/helipads-durian-monkeys-websites). Since we rarely see each other face-to-face, these trips are a really important way for us to spend time together and learn how to grow and improve.
+Periodically, our whole core team gets together for team trips. The destination for each trip is put to a team vote a few months before we depart. So far, we’ve visited [Spain](https://logbook.hanno.co/practice-what-you-preach/), [Croatia](https://logbook.hanno.co/rethinking-social-purpose-croatia/), [Malaysia and Hong Kong](https://logbook.hanno.co/helipads-durian-monkeys-websites/). Since we rarely see each other face-to-face, these trips are a really important way for us to spend time together and learn how to grow and improve.
 
 Our current team trip format is for the trips to be around 9 days in total. This includes 2 weekends, which sandwich a 5 day week, where we work on internal projects and hack weeks.
 
@@ -216,7 +216,7 @@ Collaborators will be added to the project management tools (such as Asana) that
 
 We use Slack for internal chatter, including marketing discussion, and general chat between shipmates.
 
-We are [huge fans of Asana](http://hanno.co/logbook/asana-vs-jira-lean-tools-project-management) and use it to manage the majority of on-project internal discussions, and anything that requires a task to be completed. We also keep open an internal [Basecamp](https://basecamp.com/) project called *Hanno Team News*, into which the team posts occasional discussions, and also financial updates and planning.
+We are [huge fans of Asana](https://logbook.hanno.co/asana-vs-jira-lean-tools-project-management/) and use it to manage the majority of on-project internal discussions, and anything that requires a task to be completed. We also keep open an internal [Basecamp](https://basecamp.com/) project called *Hanno Team News*, into which the team posts occasional discussions, and also financial updates and planning.
 
 We have an internal rule: **default to Asana**. It’s very rare for anyone on the team to email each other.
 
@@ -230,7 +230,7 @@ Internal calls usually happen over Skype&mdash;we feel the audio quality is bett
 
 While we understand the need of everyone in the team to be able to hit deep focus, we also believe that teams build better products together than any one person can by themselves. To accomplish this, we make sure that regular team calls are a built in part of every workday.
 
-We have a [heavy emphasis on spontaneous pairing](http://hanno.co/logbook/designer-pairing-value) within our team, particularly when it’s between people with different skills. This means that designers and developers will often pair to overcome a problem, and daily pairing is strongly encouraged. It helps build up skills within the team, improves code quality, and keeps communication strong on projects. We also feel that it leads to better results because team members can collaborate with each other.
+We have a [heavy emphasis on spontaneous pairing](https://logbook.hanno.co/designer-pairing-value/) within our team, particularly when it’s between people with different skills. This means that designers and developers will often pair to overcome a problem, and daily pairing is strongly encouraged. It helps build up skills within the team, improves code quality, and keeps communication strong on projects. We also feel that it leads to better results because team members can collaborate with each other.
 
 We use [Screenhero](https://screenhero.com/) lots for internal pairing sessions, and also frequently pair on Google Docs.
 
@@ -253,7 +253,7 @@ All OKRs are visible to the whole team, and we all try to coach each other and p
 
 ### 1:1s
 
-Each month, during the first week of the month, every shipmate has a [1:1 call](http://hanno.co/logbook/helping-our-team-to-grow) (or an in-person chat, if they're in the same city) with [Jon](http://hanno.co/team/jon). In short, it's a chance to have a chat about how the month went, and what else Hanno can be doing to help you grow, and make life better for you.
+Each month, during the first week of the month, every shipmate has a [1:1 call](https://logbook.hanno.co/helping-our-team-to-grow/) (or an in-person chat, if they're in the same city) with [Jon](http://hanno.co/team/jon). In short, it's a chance to have a chat about how the month went, and what else Hanno can be doing to help you grow, and make life better for you.
 
 Ahead of that 1:1, Jon will send brief feedback on the month's progress, via 7Geese.
 
